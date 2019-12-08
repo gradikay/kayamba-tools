@@ -34,8 +34,12 @@ We accept pull requests to this repository. Some guidelines:
  * Keep individual files to about 1000 "things" maximum. Fewer than 1000 is fine, too.
  * If you'd like attribution, I'm happy to include your name in this Readme file. Just remember that nobody who uses this data is obligated to include attribution in their own projects.
  
- ## What animal file should I submit?
- ### The list below show files needed to advance _animal database_ project
+ ## How you can help `Animal Database`?
+ ### The list below show files needed to advance `_Animal Database_` project
+ 
+ *fish
+ *microbes
+ 
 
 ## Contributors
 
