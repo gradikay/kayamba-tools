@@ -5,4 +5,5 @@ These list are meant to be exhaustive APIs, hence, feel free to contact me if so
 
 #### *Afrosoricida `Shrews, Moles, Tenrec` _count_ 50 unique names
 
-* contributor `Gradi Kayamba`
+## contributors
+* Gradi Kayamba
