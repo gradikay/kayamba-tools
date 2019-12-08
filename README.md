@@ -37,8 +37,8 @@ We accept pull requests to this repository. Some guidelines:
  ## How you can help `Animal Database`?
  ### The list below show files needed to advance `_Animal Database_` project
  
- *fish
- *microbes
+ * Fish
+ * Microbes
  
 
 ## Contributors
