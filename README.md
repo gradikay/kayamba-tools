@@ -1,31 +1,26 @@
 # Kayamba Tools
 
-This project is a collection of static Niama (lingala for "animal") list that are potentially useful in the creation of usefull internet stuff. I've found that, as a creator, sometimes I am making something that needs access to a lot of adjectives, but not necessarily every adjective in the English language. So for the last year I've been copy/pasting an `dog.json` file from project to project. This is kind of awful, so I'm hoping that this project will at least help me keep everything in one place.
+This repository is a collection of static data mainly of Niama (lingala for "animal") list which could be useful in the creation internet stuff. As a engineering and a web developer, I have come accross coping and pasting tones of data into MySql. For the last 4 years, have collected over 13,000 unique animal names. So, I have made available all my json file hopefully helping anyone out there from having to do this demanding type of work. I will keep it update as I progress.
 
-I would like this to help with rapid prototyping of projects. For example: you might use `nouns.json` to start with, just to see if an idea you had was any good. Once you've built the project quickly around the nouns collection, you can then rip it out and replace it with a more complex or exhaustive data source.
+I would like this to help with rapid prototyping of projects. For example: you might use `dogs.json` to start with, just to see if an idea you had was any good. Once you've built the project quickly around the nouns collection, you can then rip it out and replace it with a more complex or exhaustive data source.
 
 I'm also hoping that this can be used as a teaching tool: maybe someone has three hours to teach how to make Twitter bots. That doesn't give the student much time to find/scrape/clean/parse interesting data. My hope is that students can be pointed to this project and they can pick and choose different interesting data sources to meld together for the creation of prototypes.
 
 ## License
 
-Since Corpora is more data than code, I have chosen to CC0 license this (rather than MIT license or similar).
+Since Kayamba-Tools is more data than code, I have chosen to CC0 license this (rather than MIT license or similar).
 
 <a href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="http://i.creativecommons.org/p/zero/1.0/88x31.png"></a>
 
-To the extent possible under law, [Gradi Kayamba](link) has waived all copyright and related or neighboring rights to Corpora. This work is published from: Lithonia, Georgia, United States.
-
-## What is Kayamba Tools NOT?
-
-This project is not meant to replace exhaustive APIs -- if you want nouns, and you want every noun in the English language, replete with metadata, consider [Wordnik](http://developer.wordnik.com/docs). If you want the title of every Wikipedia article, use [the MediaWiki API](http://www.mediawiki.org/wiki/API:Main_page).
+To the extent possible under law, [Gradi Kayamba](https://github.com/gradikay/) has waived all copyright and related or neighboring rights to Kayamba-Tools. This work is published from: Lithonia, Georgia, United States.
 
 ## What is Kayamba Tools?
 
- * Kayamba Tools is repository of JSON files, meant to be language-neutral. If you want to create an NPM repo or whatever based on this, be my guest, but this repository will remain a collection of data files that can be interpreted by any language that can parse JSON.
- * Kayamba Tools is a collection of _small_ files. It is not meant to be an exhaustive source of anything: a list of resources should contain somewhere in the vicinity of 5000 items.
-   * For example, Kayamba Tools will not contain any complete "dictionary" style files. Instead we host a sampling of 1000 common nouns, adjectives, and verbs.
-   * Some lists are small enough by nature that we may contain a complete list of things in their category. For example, a list of heavily populated U.S. cities may only have 75 cities and be considered complete.
+ * Kayamba Tools is repository of JSON files. If you want to create an NPM repo or whatever based on this, be my guest, but this repository will remain a collection of data files that can be interpreted by any language that can parse JSON.
+ * Kayamba Tools is a collection of _large_ files. It is meant to be an exhaustive source of animal names and other files: a list of resources should contain somewhere in the vicinity of 2000 items.
+   * Some lists are not complete, futher research are suggested.
 
-## List of Kayamba-related tools case studies
+## List of Kayamba-Tools case studies
 
  * [animal-database-project](), an animal database website.
  * [kinid](), a Congolese Job Site
@@ -38,6 +33,9 @@ We accept pull requests to this repository. Some guidelines:
  * Please submit all data as JSON format in a file with a `.json` extension, and please [JSONLint](http://jsonlint.com/) your files before submitting. If you see a test failure notification in your PR after you submit, there's a problem with your JSON!
  * Keep individual files to about 1000 "things" maximum. Fewer than 1000 is fine, too.
  * If you'd like attribution, I'm happy to include your name in this Readme file. Just remember that nobody who uses this data is obligated to include attribution in their own projects.
+ 
+ ## What animal file should I submit?
+ ### The list below show files needed to advance _animal database_ project
 
 ## Contributors
 
