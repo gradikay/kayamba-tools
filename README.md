@@ -12,9 +12,9 @@ Since Corpora is more data than code, I have chosen to CC0 license this (rather 
 
 <a href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="http://i.creativecommons.org/p/zero/1.0/88x31.png"></a>
 
-To the extent possible under law, [Darius Kazemi](http://tinysubversions.com) has waived all copyright and related or neighboring rights to Corpora. This work is published from: United States.
+To the extent possible under law, [Gradi Kayamba](link) has waived all copyright and related or neighboring rights to Corpora. This work is published from: Lithonia, Georgia, United States.
 
-## What is Corpora NOT?
+## What is Kayamba Tools NOT?
 
 This project is not meant to replace exhaustive APIs -- if you want nouns, and you want every noun in the English language, replete with metadata, consider [Wordnik](http://developer.wordnik.com/docs). If you want the title of every Wikipedia article, use [the MediaWiki API](http://www.mediawiki.org/wiki/API:Main_page).
 
@@ -25,22 +25,21 @@ This project is not meant to replace exhaustive APIs -- if you want nouns, and y
    * For example, Kayamba Tools will not contain any complete "dictionary" style files. Instead we host a sampling of 1000 common nouns, adjectives, and verbs.
    * Some lists are small enough by nature that we may contain a complete list of things in their category. For example, a list of heavily populated U.S. cities may only have 75 cities and be considered complete.
 
-## List of Kayamba-related tools
+## List of Kayamba-related tools case studies
 
- * [corpora-project](https://www.npmjs.com/package/corpora-project), a Node.js NPM package for accessing corpora data offline.
- * [pycorpora](https://github.com/aparrish/pycorpora), a simple Python interface for corpora
- * [corpora-api](https://github.com/coleww/corpora-api), a Node.js server that offers up the corpora as a JSON API
+ * [animal-database-project](), an animal database website.
+ * [kinid](), a Congolese Job Site
 
 ## I have some data, how do I submit?
 
 We accept pull requests to this repository. Some guidelines:
 
  * BY SUBMITTING DATA AS A PULL REQUEST, YOU AGREE TO OUR APPLYING A [CC0](http://creativecommons.org/publicdomain/zero/1.0/) FREE CULTURE LICENSE TO THE DATA, MEANING THAT ANYONE CAN USE THE DATA FOR ANY REASON WITHOUT ATTRIBUTION IN PERPETUITY.
- * Please submit all data as JSON format in a file with a `.json` extension, and please [JSONLint](http://jsonlint.com/) your files before submitting -- also, thanks to [Matt Rothenberg](https://github.com/mroth) we have Travis-CI testing, which will jsonlint your pull request automatically. If you see a test failure notification in your PR after you submit, there's a problem with your JSON!
+ * Please submit all data as JSON format in a file with a `.json` extension, and please [JSONLint](http://jsonlint.com/) your files before submitting. If you see a test failure notification in your PR after you submit, there's a problem with your JSON!
  * Keep individual files to about 1000 "things" maximum. Fewer than 1000 is fine, too.
  * If you'd like attribution, I'm happy to include your name in this Readme file. Just remember that nobody who uses this data is obligated to include attribution in their own projects.
 
 ## Contributors
 
-By [Darius Kazemi and Many Wonderful Contributors](https://github.com/gradikay).
+By [Gradi Kayamba](https://github.com/gradikay).
 
