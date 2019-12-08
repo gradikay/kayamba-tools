@@ -1,0 +1,211 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Author: Gradi Kayamba
+// animaldatabase.afrosoricidas
+
+[
+  
+  {
+    "id": "1",
+    "name": "Fynbos golden mole"
+  },
+  {
+    "id": "2",
+    "name": "Hottentot golden mole"
+  },
+  {
+    "id": "3",
+    "name": "Marley's golden mole"
+  },
+  {
+    "id": "4",
+    "name": "Robust golden mole" 
+  },
+  {
+    "id": "5",
+    "name": "Highveld golden mole"
+  },
+  {
+    "id": "6",
+    "name": "Congo Golden Mole"
+  },
+  {
+    "id": "7",
+    "name": "Yellow Golden Mole"
+  },
+  {
+    "id": "8",
+    "name": "Somali Golden Mole" 
+  },
+  {
+    "id": "9",
+    "name": "Arends's golden mole"
+  },
+  {
+    "id": "10",
+    "name": "Duthie's Golden Mole"
+  },
+  {
+    "id": "11",
+    "name": "Sclater's Golden Mole"  
+  },
+  {
+    "id": "12",
+    "name": "De Winton's Golden Mole" 
+  },
+  {
+    "id": "13",
+    "name": "Van Zyl's Golden Mole"
+  },
+  {
+    "id": "14",
+    "name": "Cape Golden Mole"
+  },
+  {
+    "id": "15",
+    "name": "Visagie's Golden Mole"
+  },
+  {
+    "id": "16",
+    "name": "Stuhlmann's Golden Mole"
+  },
+  {
+    "id": "17",
+    "name": "Rough-haired Golden Mole"
+  },
+  {
+    "id": "18",
+    "name": "Giant Golden Mole"
+  },
+  {
+    "id": "19",
+    "name": "lesser hedgehog tenrec"
+  },
+  {
+    "id": "20",
+    "name": "Grant's golden mole"
+  },
+  {
+    "id": "21",
+    "name": "large-eared tenrec"
+  },
+  {
+    "id": "22",
+    "name": "web-footed tenrec"
+  },
+  {
+    "id": "23",
+    "name": "Short-tailed Shrew Tenrec"
+  },
+  {
+    "id": "24",
+    "name": "Cowan's Shrew Tenrec"
+  },
+  {
+    "id": "25",
+    "name": "Dobson's Shrew Tenrec"
+  },
+  {
+    "id": "26",
+    "name": "Drouhard's Shrew Tenrec"
+  },
+  {
+    "id": "27",
+    "name": "Dryad Shrew Tenrec"
+  },
+  {
+    "id": "28",
+    "name": "Pale Shrew Tenrec"
+  },
+  {
+    "id": "29",
+    "name": "Gracile Shrew Tenrec"
+  },
+  {
+    "id": "30",
+    "name": "Naked-nosed Shrew Tenrec"
+  },
+  {
+    "id": "31",
+    "name": "Jenkins' Shrew Tenrec"
+  },
+  {
+    "id": "32",
+    "name": "Northern Shrew Tenrec"
+  },
+  {
+    "id": "33",
+    "name": "Lesser Long-tailed Shrew Tenrec"
+  },
+  {
+    "id": "34",
+    "name": "Major's Long-tailed Tenrec"
+  },
+  {
+    "id": "35",
+    "name": "Montane Shrew Tenrec"
+  },
+  {
+    "id": "36",
+    "name": "Nasolo's Shrew Tenrec"
+  },
+  {
+    "id": "37",
+    "name": "Pygmy Shrew Tenrec"
+  },
+  {
+    "id": "38",
+    "name": "Greater Long-tailed Shrew Tenrec"
+  },
+  {
+    "id": "39",
+    "name": "Least Shrew Tenrec"
+  },
+  {
+    "id": "40",
+    "name": "Shrew-toothed Shrew Tenrec"
+  },
+  {
+    "id": "41",
+    "name": "Taiva Shrew Tenrec"
+  },
+  {
+    "id": "42",
+    "name": "Talazac's Shrew Tenrec"
+  },
+  {
+    "id": "43",
+    "name": "Thomas's Shrew Tenrec"
+  },
+  {
+    "id": "44",
+    "name": "Ruwenzori Otter Shrew"
+  },
+  {
+    "id": "45",
+    "name": "Nimba Otter Shrew"
+  },
+  {
+    "id": "46",
+    "name": "Mole-like rice tenrec"
+  },
+  {
+    "id": "47",
+    "name": "Four-toed rice tenrec"
+  },
+  {
+    "id": "48",
+    "name": "giant otter shrew"
+  },
+  {
+    "id": "49",
+    "name": "Greater hedgehog tenrec"
+  },
+  {
+    "id": "50",
+    "name": "tailless tenrec"
+  }
+]
