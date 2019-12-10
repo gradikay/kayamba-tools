@@ -1,0 +1,263 @@
+/**
+Export to JSON plugin for PHPMyAdmin
+@version 0.1
+*/
+// Author: Gradi Kayamba
+// animaldatabase.afrosoricidas
+[
+{
+"id" : "1",
+"name" : " Adler Goose"
+},
+
+{
+"id" : "2",
+"name" : " African Goose"
+},
+
+{
+"id" : "3",
+"name" : " Alsatian Goose"
+},
+
+{
+"id" : "4",
+"name" : " American Buff Goose"
+},
+
+{
+"id" : "5",
+"name" : " Aonghus Goose"
+},
+
+{
+"id" : "6",
+"name" : " Arzamas Goose"
+},
+
+{
+"id" : "7",
+"name" : " Austrian Landrace"
+},
+
+{
+"id" : "8",
+"name" : " Bavarian Landrace"
+},
+
+{
+"id" : "9",
+"name" : " Benkov Goose"
+},
+
+{
+"id" : "10",
+"name" : " Bourbon Goose"
+},
+
+{
+"id" : "11",
+"name" : " Brant Goose"
+},
+
+{
+"id" : "12",
+"name" : " Brecon Buff Goose"
+},
+
+{
+"id" : "13",
+"name" : " Buff Back Goose"
+},
+
+{
+"id" : "14",
+"name" : " Celle Goose"
+},
+
+{
+"id" : "15",
+"name" : " Chinese Goose"
+},
+
+{
+"id" : "16",
+"name" : " Cotton Patch Goose"
+},
+
+{
+"id" : "17",
+"name" : " Curly breasted Sebastopol Goose"
+},
+
+{
+"id" : "18",
+"name" : " Czech Goose"
+},
+
+{
+"id" : "19",
+"name" : " Czech crested Goose"
+},
+
+{
+"id" : "20",
+"name" : " Danish Landrace"
+},
+
+{
+"id" : "21",
+"name" : " Diepholz Goose"
+},
+
+{
+"id" : "22",
+"name" : " Drava Goose"
+},
+
+{
+"id" : "23",
+"name" : " Embden Goose"
+},
+
+{
+"id" : "24",
+"name" : " Emporda Goose"
+},
+
+{
+"id" : "25",
+"name" : " Euskal Antzara Goose"
+},
+
+{
+"id" : "26",
+"name" : " Faroese Goose"
+},
+
+{
+"id" : "27",
+"name" : " Flemish Goose"
+},
+
+{
+"id" : "28",
+"name" : " Franconian Goose"
+},
+
+{
+"id" : "29",
+"name" : " German Laying Goose"
+},
+
+{
+"id" : "30",
+"name" : " Gorki Goose"
+},
+
+{
+"id" : "31",
+"name" : " Greyback Goose"
+},
+
+{
+"id" : "32",
+"name" : " Hungarian Goose"
+},
+
+{
+"id" : "33",
+"name" : " Italian Goose"
+},
+
+{
+"id" : "34",
+"name" : " Javakhetian Goose"
+},
+
+{
+"id" : "35",
+"name" : " Kaluga Goose"
+},
+
+{
+"id" : "36",
+"name" : " Öland Goose"
+},
+
+{
+"id" : "37",
+"name" : " Pilgrim Goose"
+},
+
+{
+"id" : "38",
+"name" : " Pomeranian GoosePomeranian Goose"
+},
+
+{
+"id" : "39",
+"name" : " Pskov Bald Goose"
+},
+
+{
+"id" : "40",
+"name" : " Roman Tufted Goose"
+},
+
+{
+"id" : "41",
+"name" : " Scania Goose"
+},
+
+{
+"id" : "42",
+"name" : " Sebastopol Goose"
+},
+
+{
+"id" : "43",
+"name" : " Shetland Goose"
+},
+
+{
+"id" : "44",
+"name" : " Slovak White Goose"
+},
+
+{
+"id" : "45",
+"name" : " Suchovy Goose"
+},
+
+{
+"id" : "46",
+"name" : " Toulouse Goose"
+},
+
+{
+"id" : "47",
+"name" : " Tufted Roman Goose"
+},
+
+{
+"id" : "48",
+"name" : " Twente Landrace"
+},
+
+{
+"id" : "49",
+"name" : " Vishtines Goose"
+},
+
+{
+"id" : "50",
+"name" : " canada Goose"
+},
+
+{
+"id" : "51",
+"name" : " egyptian goose"
+},
+
+]
