@@ -6,22 +6,20 @@ Export to JSON plugin for PHPMyAdmin
 // animaldatabase.dogs
 
 [
-{
+  {
 
-{
-id : "1",
-name : " Afghan Hound"
-},
-
-{
-id : "2",
-name : " Airedale Terier"
-},
-
-{
-id : "3",
-name : " akita"
-},
+    {
+    id : "1",
+    name : " Afghan Hound"
+    },
+    {
+    id : "2",
+    name : " Airedale Terier"
+    },
+    {
+    id : "3",
+    name : " akita"
+    },
 
 {
 id : "5",
