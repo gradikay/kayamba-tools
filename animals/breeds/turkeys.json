@@ -1,0 +1,143 @@
+/**
+Export to JSON plugin for PHPMyAdmin
+@version 0.1
+*/
+// Author: Gradi Kayamba
+// animaldatabase.afrosoricidas
+[
+{
+"id" : "1",
+"name" : " Beltsville Small White"
+},
+
+{
+"id" : "2",
+"name" : " Black"
+},
+
+{
+"id" : "3",
+"name" : " Bourbon Red"
+},
+
+{
+"id" : "4",
+"name" : " Bronze"
+},
+
+{
+"id" : "5",
+"name" : " Narragansett"
+},
+
+{
+"id" : "6",
+"name" : " Royal Palm"
+},
+
+{
+"id" : "7",
+"name" : " Slate"
+},
+
+{
+"id" : "8",
+"name" : " White Holland turkey"
+},
+
+{
+"id" : "9",
+"name" : " American Blue"
+},
+
+{
+"id" : "10",
+"name" : " American Bronze"
+},
+
+{
+"id" : "11",
+"name" : " American Black"
+},
+
+{
+"id" : "13",
+"name" : " Dindon du Bourbonnais"
+},
+
+{
+"id" : "14",
+"name" : " Cambridge Bronze"
+},
+
+{
+"id" : "15",
+"name" : " Deutsche Pute"
+},
+
+{
+"id" : "16",
+"name" : " Deutsche Pute"
+},
+
+{
+"id" : "17",
+"name" : " Dindon du Gers"
+},
+
+{
+"id" : "18",
+"name" : " Tacchino castano d'Italia"
+},
+
+{
+"id" : "19",
+"name" : " Tacchino nero d'Italia"
+},
+
+{
+"id" : "21",
+"name" : " Norfolk Black Turkey"
+},
+
+{
+"id" : "23",
+"name" : " Dindon rouge des Ardennes"
+},
+
+{
+"id" : "24",
+"name" : " Dindon de Sologne"
+},
+
+{
+"id" : "25",
+"name" : " White Holland"
+},
+
+{
+"id" : "26",
+"name" : " Auburn"
+},
+
+{
+"id" : "27",
+"name" : " Buff"
+},
+
+{
+"id" : "28",
+"name" : " Chocolate"
+},
+
+{
+"id" : "29",
+"name" : " Midget White"
+},
+
+{
+"id" : "30",
+"name" : " Zagorje"
+},
+
+]
