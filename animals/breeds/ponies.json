@@ -1,0 +1,378 @@
+/**
+Export to JSON plugin for PHPMyAdmin
+@version 0.1
+*/
+// Author: Gradi Kayamba
+// animaldatabase.ponies
+[
+{
+"id" : "1",
+"name" : " American Walking Pony"
+},
+
+{
+"id" : "2",
+"name" : " Anadolu pony"
+},
+
+{
+"id" : "3",
+"name" : " Australian Pony"
+},
+
+{
+"id" : "4",
+"name" : " Australian Riding Pony"
+},
+
+{
+"id" : "5",
+"name" : " Bali Pony"
+},
+
+{
+"id" : "6",
+"name" : " Bashkir Pony"
+},
+
+{
+"id" : "7",
+"name" : " Basuto pony"
+},
+
+{
+"id" : "8",
+"name" : " Batak Pony"
+},
+
+{
+"id" : "9",
+"name" : " Bhutia Pony"
+},
+
+{
+"id" : "10",
+"name" : " Boer Pony"
+},
+
+{
+"id" : "11",
+"name" : " Bosnian Pony"
+},
+
+{
+"id" : "12",
+"name" : " British Riding Pony"
+},
+
+{
+"id" : "13",
+"name" : " British Spotted Pony"
+},
+
+{
+"id" : "14",
+"name" : " Burmese Pony"
+},
+
+{
+"id" : "15",
+"name" : " Canadian rustic pony"
+},
+
+{
+"id" : "16",
+"name" : " Chincoteague Pony"
+},
+
+{
+"id" : "17",
+"name" : " Chinese Guoxia"
+},
+
+{
+"id" : "18",
+"name" : " Coffin Bay Pony"
+},
+
+{
+"id" : "19",
+"name" : " Connemara pony"
+},
+
+{
+"id" : "20",
+"name" : " Czechoslovakian Small Riding Pony"
+},
+
+{
+"id" : "21",
+"name" : " Dales Pony"
+},
+
+{
+"id" : "22",
+"name" : " Danish Sport Pony"
+},
+
+{
+"id" : "23",
+"name" : " Dartmoor pony"
+},
+
+{
+"id" : "24",
+"name" : " Deli pony"
+},
+
+{
+"id" : "25",
+"name" : " Dülmen Pony"
+},
+
+{
+"id" : "26",
+"name" : " Eriskay pony"
+},
+
+{
+"id" : "27",
+"name" : " Esperia Pony"
+},
+
+{
+"id" : "28",
+"name" : " Exmoor pony"
+},
+
+{
+"id" : "29",
+"name" : " Faroe pony"
+},
+
+{
+"id" : "30",
+"name" : " Fell Pony"
+},
+
+{
+"id" : "31",
+"name" : " French Saddle Pony"
+},
+
+{
+"id" : "32",
+"name" : " Galician Pony"
+},
+
+{
+"id" : "33",
+"name" : " Garrano"
+},
+
+{
+"id" : "34",
+"name" : " Gayoe"
+},
+
+{
+"id" : "35",
+"name" : " German Riding Pony"
+},
+
+{
+"id" : "36",
+"name" : " Gotland Pony"
+},
+
+{
+"id" : "37",
+"name" : " Guizhou pony"
+},
+
+{
+"id" : "38",
+"name" : " Hackney pony"
+},
+
+{
+"id" : "39",
+"name" : " Hokkaido Pony"
+},
+
+{
+"id" : "40",
+"name" : " Hucul Pony"
+},
+
+{
+"id" : "41",
+"name" : " Indian Country Bred"
+},
+
+{
+"id" : "42",
+"name" : " Java Pony"
+},
+
+{
+"id" : "43",
+"name" : " Kerry bog pony"
+},
+
+{
+"id" : "44",
+"name" : " Landais Pony"
+},
+
+{
+"id" : "45",
+"name" : " Lijiang pony"
+},
+
+{
+"id" : "46",
+"name" : " Lundy Pony"
+},
+
+{
+"id" : "47",
+"name" : " Manipuri Pony"
+},
+
+{
+"id" : "48",
+"name" : " Miyako Pony"
+},
+
+{
+"id" : "49",
+"name" : " Narym Pony"
+},
+
+{
+"id" : "50",
+"name" : " New Forest Pony"
+},
+
+{
+"id" : "51",
+"name" : " Newfoundland pony"
+},
+
+{
+"id" : "52",
+"name" : " Noma pony"
+},
+
+{
+"id" : "53",
+"name" : " Nooitgedacht pony"
+},
+
+{
+"id" : "54",
+"name" : " Ob pony"
+},
+
+{
+"id" : "55",
+"name" : " Peneia Pony"
+},
+
+{
+"id" : "56",
+"name" : " Petiso Argentino"
+},
+
+{
+"id" : "57",
+"name" : " Pindos Pony"
+},
+
+{
+"id" : "58",
+"name" : " Poney Mousseye"
+},
+
+{
+"id" : "59",
+"name" : " Pony of the Americas"
+},
+
+{
+"id" : "60",
+"name" : " Pottok"
+},
+
+{
+"id" : "61",
+"name" : " Quarter pony"
+},
+
+{
+"id" : "62",
+"name" : " Sable Island Pony"
+},
+
+{
+"id" : "63",
+"name" : " Sandalwood Pony"
+},
+
+{
+"id" : "64",
+"name" : " Shetland pony"
+},
+
+{
+"id" : "65",
+"name" : " Skyros Pony"
+},
+
+{
+"id" : "66",
+"name" : " Sumba and Sumbawa Pony"
+},
+
+{
+"id" : "67",
+"name" : " Tibetan Pony"
+},
+
+{
+"id" : "68",
+"name" : " Timor Pony"
+},
+
+{
+"id" : "69",
+"name" : " Tokara Pony"
+},
+
+{
+"id" : "70",
+"name" : " Vyatka horse"
+},
+
+{
+"id" : "71",
+"name" : " Welara"
+},
+
+{
+"id" : "72",
+"name" : " Welsh pony"
+},
+
+{
+"id" : "73",
+"name" : " Zaniskari pony"
+},
+
+{
+"id" : "74",
+"name" : " Žemaitukas"
+},
+
+]
