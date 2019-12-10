@@ -1,0 +1,248 @@
+/**
+Export to JSON plugin for PHPMyAdmin
+@version 0.1
+*/
+// Author: Gradi Kayamba
+// animaldatabase.rabbits
+[
+{
+"id" : "1",
+"name" : " american"
+},
+
+{
+"id" : "2",
+"name" : " american chinchilla"
+},
+
+{
+"id" : "3",
+"name" : " american fuzzylop"
+},
+
+{
+"id" : "4",
+"name" : " american sable"
+},
+
+{
+"id" : "5",
+"name" : " belgian hare"
+},
+
+{
+"id" : "6",
+"name" : " beveren"
+},
+
+{
+"id" : "7",
+"name" : " blanc de hotot"
+},
+
+{
+"id" : "8",
+"name" : " britannia petite"
+},
+
+{
+"id" : "9",
+"name" : " californian"
+},
+
+{
+"id" : "10",
+"name" : " champagne d'argent"
+},
+
+{
+"id" : "11",
+"name" : " checkered giant"
+},
+
+{
+"id" : "12",
+"name" : " cinnamon"
+},
+
+{
+"id" : "13",
+"name" : " creme d'argent"
+},
+
+{
+"id" : "14",
+"name" : " dutch"
+},
+
+{
+"id" : "15",
+"name" : " dwarf hotot"
+},
+
+{
+"id" : "16",
+"name" : " english angora"
+},
+
+{
+"id" : "17",
+"name" : " english lop"
+},
+
+{
+"id" : "18",
+"name" : " english spot"
+},
+
+{
+"id" : "19",
+"name" : " flemish giant"
+},
+
+{
+"id" : "20",
+"name" : " florida white"
+},
+
+{
+"id" : "21",
+"name" : " french angora"
+},
+
+{
+"id" : "22",
+"name" : " french lop"
+},
+
+{
+"id" : "23",
+"name" : " giant angora"
+},
+
+{
+"id" : "24",
+"name" : " giant chinchilla"
+},
+
+{
+"id" : "25",
+"name" : " harlequin"
+},
+
+{
+"id" : "26",
+"name" : " havana"
+},
+
+{
+"id" : "27",
+"name" : " himalayan"
+},
+
+{
+"id" : "28",
+"name" : " holland lop"
+},
+
+{
+"id" : "29",
+"name" : " jersey wooly"
+},
+
+{
+"id" : "30",
+"name" : " lilic"
+},
+
+{
+"id" : "31",
+"name" : " lionhead"
+},
+
+{
+"id" : "32",
+"name" : " mini lop"
+},
+
+{
+"id" : "33",
+"name" : " mini rex"
+},
+
+{
+"id" : "34",
+"name" : " mini satin"
+},
+
+{
+"id" : "35",
+"name" : " netherland dwarf"
+},
+
+{
+"id" : "36",
+"name" : " new zealand"
+},
+
+{
+"id" : "37",
+"name" : " palomino"
+},
+
+{
+"id" : "38",
+"name" : " polish"
+},
+
+{
+"id" : "39",
+"name" : " rex"
+},
+
+{
+"id" : "40",
+"name" : " rhinelander"
+},
+
+{
+"id" : "41",
+"name" : " satin"
+},
+
+{
+"id" : "42",
+"name" : " satin angora"
+},
+
+{
+"id" : "43",
+"name" : " silver"
+},
+
+{
+"id" : "44",
+"name" : " silver fox"
+},
+
+{
+"id" : "45",
+"name" : " silver marten"
+},
+
+{
+"id" : "46",
+"name" : " standard chinchilla"
+},
+
+{
+"id" : "47",
+"name" : " tan"
+},
+
+{
+"id" : "48",
+"name" : " thrianta"
+},
+
+]
