@@ -1,0 +1,653 @@
+/**
+Export to JSON plugin for PHPMyAdmin
+@version 0.1
+*/
+// Author: Gradi Kayamba
+// animaldatabase.pigs
+[
+{
+"id" : "1",
+"name" : " Aksai Black Pied"
+},
+
+{
+"id" : "2",
+"name" : " American Yorkshire"
+},
+
+{
+"id" : "3",
+"name" : " Angeln Saddleback"
+},
+
+{
+"id" : "4",
+"name" : " Appalachian English"
+},
+
+{
+"id" : "5",
+"name" : " Arapawa Island"
+},
+
+{
+"id" : "6",
+"name" : " Auckland Island Pig"
+},
+
+{
+"id" : "7",
+"name" : " Australian Yorkshire"
+},
+
+{
+"id" : "8",
+"name" : " Babi Kampung"
+},
+
+{
+"id" : "9",
+"name" : " Ba Xuyen"
+},
+
+{
+"id" : "10",
+"name" : " Bantu"
+},
+
+{
+"id" : "11",
+"name" : " Basque"
+},
+
+{
+"id" : "12",
+"name" : " Bazna"
+},
+
+{
+"id" : "13",
+"name" : " Beijing Black"
+},
+
+{
+"id" : "14",
+"name" : " Belarus Black Pied"
+},
+
+{
+"id" : "15",
+"name" : " Belgian Landrace"
+},
+
+{
+"id" : "16",
+"name" : " Bengali Brown Shannaj"
+},
+
+{
+"id" : "17",
+"name" : " Bentheim Black Pied"
+},
+
+{
+"id" : "18",
+"name" : " Berkshire"
+},
+
+{
+"id" : "19",
+"name" : " Bisaro"
+},
+
+{
+"id" : "20",
+"name" : " Bangur"
+},
+
+{
+"id" : "21",
+"name" : " Black Slavonian"
+},
+
+{
+"id" : "22",
+"name" : " Black Canarian Pig"
+},
+
+{
+"id" : "23",
+"name" : " Breitovo"
+},
+
+{
+"id" : "24",
+"name" : " British Landrace"
+},
+
+{
+"id" : "25",
+"name" : " British Lop"
+},
+
+{
+"id" : "26",
+"name" : " British Saddleback"
+},
+
+{
+"id" : "27",
+"name" : " Bulgarian White"
+},
+
+{
+"id" : "28",
+"name" : " Cantonese"
+},
+
+{
+"id" : "29",
+"name" : " Chato Murciano"
+},
+
+{
+"id" : "30",
+"name" : " Chester White"
+},
+
+{
+"id" : "31",
+"name" : " Choctaw Hog"
+},
+
+{
+"id" : "32",
+"name" : " Creole Pig"
+},
+
+{
+"id" : "33",
+"name" : " Cumberland Pig"
+},
+
+{
+"id" : "34",
+"name" : " Czech Improved White"
+},
+
+{
+"id" : "35",
+"name" : " Danes"
+},
+
+{
+"id" : "36",
+"name" : " Danish Landrace"
+},
+
+{
+"id" : "37",
+"name" : " Danish Protest Pig"
+},
+
+{
+"id" : "38",
+"name" : " Dermantsi Pied"
+},
+
+{
+"id" : "39",
+"name" : " Li Yan Pig"
+},
+
+{
+"id" : "40",
+"name" : " Duroc"
+},
+
+{
+"id" : "41",
+"name" : " Dutch Landrace pig"
+},
+
+{
+"id" : "42",
+"name" : " East Balkan pig"
+},
+
+{
+"id" : "43",
+"name" : " Essex"
+},
+
+{
+"id" : "44",
+"name" : " Estonian Bacon"
+},
+
+{
+"id" : "45",
+"name" : " Fengjing pig"
+},
+
+{
+"id" : "46",
+"name" : " Finnish Landrance"
+},
+
+{
+"id" : "47",
+"name" : " Forest Mountain"
+},
+
+{
+"id" : "48",
+"name" : " French Landrace"
+},
+
+{
+"id" : "49",
+"name" : " Gascon"
+},
+
+{
+"id" : "50",
+"name" : " German Landrace"
+},
+
+{
+"id" : "51",
+"name" : " Gloucestershire Old Spot"
+},
+
+{
+"id" : "52",
+"name" : " Göttingen minipig"
+},
+
+{
+"id" : "53",
+"name" : " Grice"
+},
+
+{
+"id" : "54",
+"name" : " Guinea Hog"
+},
+
+{
+"id" : "55",
+"name" : " Hampshire"
+},
+
+{
+"id" : "56",
+"name" : " Hante"
+},
+
+{
+"id" : "57",
+"name" : " Hereford"
+},
+
+{
+"id" : "58",
+"name" : " Hezuo"
+},
+
+{
+"id" : "59",
+"name" : " Iberian"
+},
+
+{
+"id" : "60",
+"name" : " Italian Landrace"
+},
+
+{
+"id" : "61",
+"name" : " Japanese Landrace"
+},
+
+{
+"id" : "62",
+"name" : " Jeju Black Pig"
+},
+
+{
+"id" : "63",
+"name" : " Jinhua"
+},
+
+{
+"id" : "64",
+"name" : " Juliana"
+},
+
+{
+"id" : "65",
+"name" : " Kakhetian"
+},
+
+{
+"id" : "66",
+"name" : " Kele"
+},
+
+{
+"id" : "67",
+"name" : " Kemerovo"
+},
+
+{
+"id" : "68",
+"name" : " Korean Native Pig"
+},
+
+{
+"id" : "69",
+"name" : " Kunekune"
+},
+
+{
+"id" : "70",
+"name" : " Lamcombe"
+},
+
+{
+"id" : "71",
+"name" : " Large Black"
+},
+
+{
+"id" : "72",
+"name" : " Large Black-white"
+},
+
+{
+"id" : "73",
+"name" : " Large White"
+},
+
+{
+"id" : "74",
+"name" : " Leicoma"
+},
+
+{
+"id" : "75",
+"name" : " Lithuanian Native"
+},
+
+{
+"id" : "76",
+"name" : " Lithuanian White"
+},
+
+{
+"id" : "77",
+"name" : " Lincolnshire Curly-Coated Pig"
+},
+
+{
+"id" : "78",
+"name" : " Livny"
+},
+
+{
+"id" : "79",
+"name" : " Malhado de Alcobaça"
+},
+
+{
+"id" : "80",
+"name" : " Mangalitsa"
+},
+
+{
+"id" : "81",
+"name" : " Meishan"
+},
+
+{
+"id" : "82",
+"name" : " Middle White"
+},
+
+{
+"id" : "83",
+"name" : " Minzhu"
+},
+
+{
+"id" : "84",
+"name" : " Minokawa Buta"
+},
+
+{
+"id" : "85",
+"name" : " Mong Cai"
+},
+
+{
+"id" : "86",
+"name" : " Mora Romagnola"
+},
+
+{
+"id" : "87",
+"name" : " Moura"
+},
+
+{
+"id" : "88",
+"name" : " Mukota"
+},
+
+{
+"id" : "89",
+"name" : " Mulefoot"
+},
+
+{
+"id" : "90",
+"name" : " Myrhorod"
+},
+
+{
+"id" : "91",
+"name" : " Nero dei Nebrodi"
+},
+
+{
+"id" : "92",
+"name" : " Neijiang"
+},
+
+{
+"id" : "93",
+"name" : " Ningxiang"
+},
+
+{
+"id" : "94",
+"name" : " North Caucasian"
+},
+
+{
+"id" : "95",
+"name" : " North Siberian"
+},
+
+{
+"id" : "96",
+"name" : " Norwegian Landrace"
+},
+
+{
+"id" : "97",
+"name" : " Norwegian Yorkshire"
+},
+
+{
+"id" : "98",
+"name" : " Ossabaw Island"
+},
+
+{
+"id" : "99",
+"name" : " Oxford Sandy and Black"
+},
+
+{
+"id" : "100",
+"name" : " Philippine Native"
+},
+
+{
+"id" : "101",
+"name" : " Piétrain"
+},
+
+{
+"id" : "102",
+"name" : " Poland China"
+},
+
+{
+"id" : "103",
+"name" : " Red Wattle"
+},
+
+{
+"id" : "104",
+"name" : " Semirechensk"
+},
+
+{
+"id" : "105",
+"name" : " Siberian Black Pied"
+},
+
+{
+"id" : "106",
+"name" : " Small Black"
+},
+
+{
+"id" : "107",
+"name" : " Small White"
+},
+
+{
+"id" : "108",
+"name" : " Spots"
+},
+
+{
+"id" : "109",
+"name" : " Surabaya Babi"
+},
+
+{
+"id" : "110",
+"name" : " Swabian-Hall"
+},
+
+{
+"id" : "111",
+"name" : " Swedish Landrace"
+},
+
+{
+"id" : "112",
+"name" : " Taihu pig"
+},
+
+{
+"id" : "113",
+"name" : " Tamworth"
+},
+
+{
+"id" : "114",
+"name" : " Thuoc Nhieu"
+},
+
+{
+"id" : "115",
+"name" : " Tibetan"
+},
+
+{
+"id" : "116",
+"name" : " Tokyo-X"
+},
+
+{
+"id" : "117",
+"name" : " Tsivilsk"
+},
+
+{
+"id" : "118",
+"name" : " Turopolje"
+},
+
+{
+"id" : "119",
+"name" : " Ukrainian Spotted Steppe"
+},
+
+{
+"id" : "120",
+"name" : " Ukrainian White Steppe"
+},
+
+{
+"id" : "121",
+"name" : " Urzhum"
+},
+
+{
+"id" : "122",
+"name" : " Vietnamese Potbelly"
+},
+
+{
+"id" : "123",
+"name" : " Welsh"
+},
+
+{
+"id" : "124",
+"name" : " Wessex Saddleback"
+},
+
+{
+"id" : "125",
+"name" : " West French White"
+},
+
+{
+"id" : "126",
+"name" : " Windsnyer"
+},
+
+{
+"id" : "127",
+"name" : " Wuzishan"
+},
+
+{
+"id" : "128",
+"name" : " Yanan"
+},
+
+{
+"id" : "129",
+"name" : " Yorkshire Blue and White"
+},
+
+]
