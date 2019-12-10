@@ -1,0 +1,1193 @@
+/**
+Export to JSON plugin for PHPMyAdmin
+@version 0.1
+*/
+// Author: Gradi Kayamba
+// animaldatabase.sheeps
+[
+{
+"id" : "1",
+"name" : " Acipayam"
+},
+
+{
+"id" : "2",
+"name" : " Adal"
+},
+
+{
+"id" : "3",
+"name" : " Africana"
+},
+
+{
+"id" : "4",
+"name" : " Afrikaner"
+},
+
+{
+"id" : "5",
+"name" : " Alai"
+},
+
+{
+"id" : "6",
+"name" : " Alcarreña"
+},
+
+{
+"id" : "7",
+"name" : " Algarve Churro"
+},
+
+{
+"id" : "8",
+"name" : " Alpines Steinschaf"
+},
+
+{
+"id" : "9",
+"name" : " Altay"
+},
+
+{
+"id" : "10",
+"name" : " Ancon"
+},
+
+{
+"id" : "11",
+"name" : " Apennine"
+},
+
+{
+"id" : "12",
+"name" : " Arabi"
+},
+
+{
+"id" : "13",
+"name" : " Arkhar-Merino"
+},
+
+{
+"id" : "14",
+"name" : " Afghan Arabi"
+},
+
+{
+"id" : "15",
+"name" : " Algerian Arab"
+},
+
+{
+"id" : "16",
+"name" : " Arapawa"
+},
+
+{
+"id" : "17",
+"name" : " Armenian Semicoarsewool"
+},
+
+{
+"id" : "18",
+"name" : " Askanian"
+},
+
+{
+"id" : "19",
+"name" : " Assaf"
+},
+
+{
+"id" : "20",
+"name" : " Aussiedown"
+},
+
+{
+"id" : "21",
+"name" : " Australian White"
+},
+
+{
+"id" : "22",
+"name" : " Awassi"
+},
+
+{
+"id" : "23",
+"name" : " Balkhi"
+},
+
+{
+"id" : "24",
+"name" : " Baluchi"
+},
+
+{
+"id" : "25",
+"name" : " Barbados Blackbelly sheep"
+},
+
+{
+"id" : "26",
+"name" : " Bardoka"
+},
+
+{
+"id" : "27",
+"name" : " Basco-béarnaise"
+},
+
+{
+"id" : "28",
+"name" : " Beltex"
+},
+
+{
+"id" : "29",
+"name" : " Bentheimer Landschaf"
+},
+
+{
+"id" : "30",
+"name" : " Bergamasca"
+},
+
+{
+"id" : "31",
+"name" : " Berichon du Cher"
+},
+
+{
+"id" : "32",
+"name" : " Beulah Speckled Face"
+},
+
+{
+"id" : "33",
+"name" : " Bibrik"
+},
+
+{
+"id" : "34",
+"name" : " Biellese"
+},
+
+{
+"id" : "35",
+"name" : " Bizet"
+},
+
+{
+"id" : "36",
+"name" : " Blackhead Persian"
+},
+
+{
+"id" : "37",
+"name" : " Bleu du Maine"
+},
+
+{
+"id" : "38",
+"name" : " Bluefaced Leicester"
+},
+
+{
+"id" : "39",
+"name" : " Bond"
+},
+
+{
+"id" : "40",
+"name" : " Border Leicester"
+},
+
+{
+"id" : "41",
+"name" : " Boreray"
+},
+
+{
+"id" : "42",
+"name" : " Bovec sheep"
+},
+
+{
+"id" : "43",
+"name" : " Braunes Bergschaf"
+},
+
+{
+"id" : "44",
+"name" : " Brazilian Somali"
+},
+
+{
+"id" : "45",
+"name" : " British Milk sheep"
+},
+
+{
+"id" : "46",
+"name" : " Bündner Oberland"
+},
+
+{
+"id" : "47",
+"name" : " California Red"
+},
+
+{
+"id" : "48",
+"name" : " California Variegated Mutant"
+},
+
+{
+"id" : "49",
+"name" : " Cameroon sheep"
+},
+
+{
+"id" : "50",
+"name" : " Campanian Barbary"
+},
+
+{
+"id" : "51",
+"name" : " Canadian Arcott"
+},
+
+{
+"id" : "52",
+"name" : " Castlemilk Moorit"
+},
+
+{
+"id" : "53",
+"name" : " Charmoise"
+},
+
+{
+"id" : "54",
+"name" : " Charollais"
+},
+
+{
+"id" : "55",
+"name" : " Cheviot"
+},
+
+{
+"id" : "56",
+"name" : " Border Cheviot"
+},
+
+{
+"id" : "57",
+"name" : " Brecknock Hill Cheviot"
+},
+
+{
+"id" : "58",
+"name" : " North Country Cheviot"
+},
+
+{
+"id" : "59",
+"name" : " Chios"
+},
+
+{
+"id" : "60",
+"name" : " Cholistani"
+},
+
+{
+"id" : "61",
+"name" : " Churra"
+},
+
+{
+"id" : "62",
+"name" : " Cikta"
+},
+
+{
+"id" : "63",
+"name" : " Cine Capari"
+},
+
+{
+"id" : "64",
+"name" : " Clun Forest"
+},
+
+{
+"id" : "65",
+"name" : " Coburger Fuchsschaf"
+},
+
+{
+"id" : "66",
+"name" : " Columbia"
+},
+
+{
+"id" : "67",
+"name" : " Comeback"
+},
+
+{
+"id" : "68",
+"name" : " Comisana"
+},
+
+{
+"id" : "69",
+"name" : " Coolalee"
+},
+
+{
+"id" : "70",
+"name" : " Coopworth"
+},
+
+{
+"id" : "71",
+"name" : " Cormo"
+},
+
+{
+"id" : "72",
+"name" : " Corriedale"
+},
+
+{
+"id" : "73",
+"name" : " Cotswold"
+},
+
+{
+"id" : "74",
+"name" : " Criollo"
+},
+
+{
+"id" : "75",
+"name" : " Dala Fur sheep"
+},
+
+{
+"id" : "76",
+"name" : " Dalesbred"
+},
+
+{
+"id" : "77",
+"name" : " Dagliç"
+},
+
+{
+"id" : "78",
+"name" : " Damani"
+},
+
+{
+"id" : "79",
+"name" : " Damara"
+},
+
+{
+"id" : "80",
+"name" : " Danish Landrace"
+},
+
+{
+"id" : "81",
+"name" : " Debouillet"
+},
+
+{
+"id" : "82",
+"name" : " Derbyshire Gritstone"
+},
+
+{
+"id" : "83",
+"name" : " Deutsches Bergschaf"
+},
+
+{
+"id" : "84",
+"name" : " Devon Closewool"
+},
+
+{
+"id" : "85",
+"name" : " Devon Longwoolled"
+},
+
+{
+"id" : "86",
+"name" : " Dohne Merino"
+},
+
+{
+"id" : "87",
+"name" : " Dorper"
+},
+
+{
+"id" : "88",
+"name" : " Dorset"
+},
+
+{
+"id" : "89",
+"name" : " Dorset Down"
+},
+
+{
+"id" : "90",
+"name" : " Drenth Heath Sheep"
+},
+
+{
+"id" : "91",
+"name" : " Drysdale"
+},
+
+{
+"id" : "92",
+"name" : " Easycare"
+},
+
+{
+"id" : "93",
+"name" : " East Friesian"
+},
+
+{
+"id" : "94",
+"name" : " Elliottdale"
+},
+
+{
+"id" : "95",
+"name" : " English Leicester"
+},
+
+{
+"id" : "96",
+"name" : " Estonian Ruhnu"
+},
+
+{
+"id" : "97",
+"name" : " Exmoor Horn"
+},
+
+{
+"id" : "98",
+"name" : " Fabrianese"
+},
+
+{
+"id" : "99",
+"name" : " Faroes"
+},
+
+{
+"id" : "100",
+"name" : " Fat-tailed sheep"
+},
+
+{
+"id" : "101",
+"name" : " Finnsheep"
+},
+
+{
+"id" : "102",
+"name" : " Flanders Milk sheep"
+},
+
+{
+"id" : "103",
+"name" : " French Alpine sheep"
+},
+
+{
+"id" : "104",
+"name" : " Friesian Milk sheep"
+},
+
+{
+"id" : "105",
+"name" : " Fuglestad"
+},
+
+{
+"id" : "106",
+"name" : " Gaddi"
+},
+
+{
+"id" : "107",
+"name" : " Galway"
+},
+
+{
+"id" : "108",
+"name" : " Gansu Alpine Fine-wool"
+},
+
+{
+"id" : "109",
+"name" : " Gentile di Puglia"
+},
+
+{
+"id" : "110",
+"name" : " German Whiteheaded Mutton"
+},
+
+{
+"id" : "111",
+"name" : " Gotland"
+},
+
+{
+"id" : "112",
+"name" : " Greyface Dartmoor"
+},
+
+{
+"id" : "113",
+"name" : " Grey Troender"
+},
+
+{
+"id" : "114",
+"name" : " Gromark"
+},
+
+{
+"id" : "115",
+"name" : " Gulf Coast Native"
+},
+
+{
+"id" : "116",
+"name" : " Guirra"
+},
+
+{
+"id" : "117",
+"name" : " Gute"
+},
+
+{
+"id" : "118",
+"name" : " Hampshire"
+},
+
+{
+"id" : "119",
+"name" : " Hebridean"
+},
+
+{
+"id" : "120",
+"name" : " Heidschnucke"
+},
+
+{
+"id" : "121",
+"name" : " Graue gehörnte Heidschnucke"
+},
+
+{
+"id" : "122",
+"name" : " Moorschnucke"
+},
+
+{
+"id" : "123",
+"name" : " Weiße gehörnte Heidschnucke"
+},
+
+{
+"id" : "124",
+"name" : " Herdwick"
+},
+
+{
+"id" : "125",
+"name" : " Hill Radnor"
+},
+
+{
+"id" : "126",
+"name" : " Hog Island"
+},
+
+{
+"id" : "127",
+"name" : " Icelandic sheep"
+},
+
+{
+"id" : "128",
+"name" : " Île-de-France"
+},
+
+{
+"id" : "129",
+"name" : " Iranian red sheep"
+},
+
+{
+"id" : "130",
+"name" : " Jacob"
+},
+
+{
+"id" : "131",
+"name" : " Jezersko–Solcava sheep"
+},
+
+{
+"id" : "132",
+"name" : " Karakul"
+},
+
+{
+"id" : "133",
+"name" : " Karayaka"
+},
+
+{
+"id" : "134",
+"name" : " Katahdin"
+},
+
+{
+"id" : "135",
+"name" : " Kerry Hill"
+},
+
+{
+"id" : "136",
+"name" : " Kooka"
+},
+
+{
+"id" : "137",
+"name" : " Lacaune"
+},
+
+{
+"id" : "138",
+"name" : " Latxa"
+},
+
+{
+"id" : "139",
+"name" : " Lincoln"
+},
+
+{
+"id" : "140",
+"name" : " Lithuanian Black-headed"
+},
+
+{
+"id" : "141",
+"name" : " Llanwenog"
+},
+
+{
+"id" : "142",
+"name" : " Lleyn"
+},
+
+{
+"id" : "143",
+"name" : " Lohi"
+},
+
+{
+"id" : "144",
+"name" : " Lonk"
+},
+
+{
+"id" : "145",
+"name" : " Marwari"
+},
+
+{
+"id" : "146",
+"name" : " Manx Loaghtan"
+},
+
+{
+"id" : "147",
+"name" : " Massese sheep"
+},
+
+{
+"id" : "148",
+"name" : " Meatmaster"
+},
+
+{
+"id" : "149",
+"name" : " Mehraban"
+},
+
+{
+"id" : "150",
+"name" : " Merinizzata Italiana"
+},
+
+{
+"id" : "151",
+"name" : " Merino"
+},
+
+{
+"id" : "152",
+"name" : " Booroola Merino"
+},
+
+{
+"id" : "153",
+"name" : " Delaine Merino"
+},
+
+{
+"id" : "154",
+"name" : " Merinolandschaf"
+},
+
+{
+"id" : "155",
+"name" : " Poll Merino"
+},
+
+{
+"id" : "156",
+"name" : " South African Meat Merino"
+},
+
+{
+"id" : "157",
+"name" : " Montadale"
+},
+
+{
+"id" : "158",
+"name" : " Morada Nova"
+},
+
+{
+"id" : "159",
+"name" : " Najdi"
+},
+
+{
+"id" : "160",
+"name" : " Namaqua Afrikaner"
+},
+
+{
+"id" : "161",
+"name" : " Nali"
+},
+
+{
+"id" : "162",
+"name" : " Navajo-Churro sheep"
+},
+
+{
+"id" : "163",
+"name" : " Newfoundland"
+},
+
+{
+"id" : "164",
+"name" : " Nilgiri"
+},
+
+{
+"id" : "165",
+"name" : " Noire du Velay"
+},
+
+{
+"id" : "166",
+"name" : " Norfolk Horn"
+},
+
+{
+"id" : "167",
+"name" : " North Ronaldsay"
+},
+
+{
+"id" : "168",
+"name" : " Northern European short-tailed sheep"
+},
+
+{
+"id" : "169",
+"name" : " Ouessant"
+},
+
+{
+"id" : "170",
+"name" : " Oxford"
+},
+
+{
+"id" : "171",
+"name" : " Panama"
+},
+
+{
+"id" : "172",
+"name" : " Pedi sheep"
+},
+
+{
+"id" : "173",
+"name" : " Pelibüey"
+},
+
+{
+"id" : "174",
+"name" : " Perendale"
+},
+
+{
+"id" : "175",
+"name" : " Pinzirita"
+},
+
+{
+"id" : "176",
+"name" : " Polwarth"
+},
+
+{
+"id" : "177",
+"name" : " Polypay"
+},
+
+{
+"id" : "178",
+"name" : " Portland"
+},
+
+{
+"id" : "179",
+"name" : " Priangan"
+},
+
+{
+"id" : "180",
+"name" : " Poll Dorset"
+},
+
+{
+"id" : "181",
+"name" : " Polled Dorset"
+},
+
+{
+"id" : "182",
+"name" : " Pomeranian Coarsewool Sheep"
+},
+
+{
+"id" : "183",
+"name" : " Racka"
+},
+
+{
+"id" : "184",
+"name" : " Rambouillet"
+},
+
+{
+"id" : "185",
+"name" : " Red Maasai"
+},
+
+{
+"id" : "186",
+"name" : " Rideau Arcott"
+},
+
+{
+"id" : "187",
+"name" : " Romanov"
+},
+
+{
+"id" : "188",
+"name" : " Romney sheep"
+},
+
+{
+"id" : "189",
+"name" : " Roslag"
+},
+
+{
+"id" : "190",
+"name" : " Rouge de l'Ouest"
+},
+
+{
+"id" : "191",
+"name" : " Rough Fell"
+},
+
+{
+"id" : "192",
+"name" : " Royal White"
+},
+
+{
+"id" : "193",
+"name" : " Ruda"
+},
+
+{
+"id" : "194",
+"name" : " Rya"
+},
+
+{
+"id" : "195",
+"name" : " Ryeland"
+},
+
+{
+"id" : "196",
+"name" : " Sakiz"
+},
+
+{
+"id" : "197",
+"name" : " Santa Cruz"
+},
+
+{
+"id" : "198",
+"name" : " Santa Inês"
+},
+
+{
+"id" : "199",
+"name" : " Sardinian"
+},
+
+{
+"id" : "200",
+"name" : " Scottish Blackface"
+},
+
+{
+"id" : "201",
+"name" : " Scottish Dunface"
+},
+
+{
+"id" : "202",
+"name" : " Serrai"
+},
+
+{
+"id" : "203",
+"name" : " Shetland"
+},
+
+{
+"id" : "204",
+"name" : " Shropshire"
+},
+
+{
+"id" : "205",
+"name" : " Skudde"
+},
+
+{
+"id" : "206",
+"name" : " Soay"
+},
+
+{
+"id" : "207",
+"name" : " Somali"
+},
+
+{
+"id" : "208",
+"name" : " Sopravissana"
+},
+
+{
+"id" : "209",
+"name" : " Southdown"
+},
+
+{
+"id" : "210",
+"name" : " Spælsau"
+},
+
+{
+"id" : "211",
+"name" : " St. Croix"
+},
+
+{
+"id" : "212",
+"name" : " Suffolk"
+},
+
+{
+"id" : "213",
+"name" : " Swaledale"
+},
+
+{
+"id" : "214",
+"name" : " Taleshi"
+},
+
+{
+"id" : "215",
+"name" : " Targhee"
+},
+
+{
+"id" : "216",
+"name" : " Teeswater"
+},
+
+{
+"id" : "217",
+"name" : " Texel"
+},
+
+{
+"id" : "218",
+"name" : " Tiroler Steinschaf"
+},
+
+{
+"id" : "219",
+"name" : " Tunis"
+},
+
+{
+"id" : "220",
+"name" : " Uda"
+},
+
+{
+"id" : "221",
+"name" : " Valais Blacknose"
+},
+
+{
+"id" : "222",
+"name" : " Van Rooy"
+},
+
+{
+"id" : "223",
+"name" : " Vendéen"
+},
+
+{
+"id" : "224",
+"name" : " Waziri"
+},
+
+{
+"id" : "225",
+"name" : " Welsh Mountain sheep"
+},
+
+{
+"id" : "226",
+"name" : " Badger Face Welsh Mountain"
+},
+
+{
+"id" : "227",
+"name" : " Balwen Welsh Mountain sheep"
+},
+
+{
+"id" : "228",
+"name" : " Black Welsh Mountain sheep"
+},
+
+{
+"id" : "229",
+"name" : " Wensleydale"
+},
+
+{
+"id" : "230",
+"name" : " West African Dwarf"
+},
+
+{
+"id" : "231",
+"name" : " White Suffolk"
+},
+
+{
+"id" : "232",
+"name" : " Whiteface Dartmoor"
+},
+
+{
+"id" : "233",
+"name" : " Whitefaced Woodland"
+},
+
+{
+"id" : "234",
+"name" : " Wiltipoll"
+},
+
+{
+"id" : "235",
+"name" : " Wiltshire Horn"
+},
+
+{
+"id" : "236",
+"name" : " Zelazna"
+},
+
+{
+"id" : "237",
+"name" : " Zwartbles"
+},
+
+]
