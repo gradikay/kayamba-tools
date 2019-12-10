@@ -1,0 +1,1673 @@
+/**
+Export to JSON plugin for PHPMyAdmin
+@version 0.1
+*/
+// Author: Gradi Kayamba
+// animaldatabase.dogs
+
+[
+{
+
+{
+id : "1",
+name : " Afghan Hound"
+},
+
+{
+id : "2",
+name : " Airedale Terier"
+},
+
+{
+id : "3",
+name : " akita"
+},
+
+{
+id : "5",
+name : " American Cocker Spaniel"
+},
+
+{
+id : "6",
+name : " American Eskimo Dog (Miniature)"
+},
+
+{
+id : "7",
+name : " American Eskimo Dog (Standard)"
+},
+
+{
+id : "8",
+name : " American Eskimo Dog (Toy)"
+},
+
+{
+id : "9",
+name : " American Foxhound"
+},
+
+{
+id : "10",
+name : " American Staffordshire Terrier"
+},
+
+{
+id : "11",
+name : " American Water Spaniel"
+},
+
+{
+id : "12",
+name : " Anatolian Shepherd"
+},
+
+{
+id : "13",
+name : " Australian Cattle Dog"
+},
+
+{
+id : "14",
+name : " Alaskan Malamute"
+},
+
+{
+id : "24",
+name : " Australian Shepherd"
+},
+
+{
+id : "25",
+name : " Australian Terrier"
+},
+
+{
+id : "26",
+name : " Basenji"
+},
+
+{
+id : "27",
+name : " Basset Hound"
+},
+
+{
+id : "28",
+name : " Beagle"
+},
+
+{
+id : "29",
+name : " Bearded Collie"
+},
+
+{
+id : "30",
+name : " Bedlington Terrier"
+},
+
+{
+id : "31",
+name : " Belgian Malinois"
+},
+
+{
+id : "32",
+name : " Belgian Sheepdog"
+},
+
+{
+id : "33",
+name : " Belgian Tervuren"
+},
+
+{
+id : "34",
+name : " Bernese Mountain Dog"
+},
+
+{
+id : "35",
+name : " Bichon Frise"
+},
+
+{
+id : "36",
+name : " Black and Tan Coonhound"
+},
+
+{
+id : "37",
+name : " Bloodhound"
+},
+
+{
+id : "38",
+name : " Border Collie"
+},
+
+{
+id : "39",
+name : " Border Terrier"
+},
+
+{
+id : "40",
+name : " Borzoi"
+},
+
+{
+id : "42",
+name : " Bouvier des Flandres"
+},
+
+{
+id : "43",
+name : " Boxer"
+},
+
+{
+id : "44",
+name : " Briard"
+},
+
+{
+id : "45",
+name : " Brittany"
+},
+
+{
+id : "46",
+name : " Brussels Griffon"
+},
+
+{
+id : "47",
+name : " Bull Terrier"
+},
+
+{
+id : "48",
+name : " Bulldog"
+},
+
+{
+id : "49",
+name : " Bullmastiff"
+},
+
+{
+id : "50",
+name : " Cairn Terrier"
+},
+
+{
+id : "51",
+name : " Canaan Dog"
+},
+
+{
+id : "52",
+name : " Cardigan Welsh Corgi"
+},
+
+{
+id : "53",
+name : " Cavalier King Charles Spaniel"
+},
+
+{
+id : "54",
+name : " Chesapeake Bay Retriever"
+},
+
+{
+id : "55",
+name : " Chihuahua"
+},
+
+{
+id : "56",
+name : " Chinese Crested Dog"
+},
+
+{
+id : "57",
+name : " Chinese Shar-Pei"
+},
+
+{
+id : "58",
+name : " Chow Chow"
+},
+
+{
+id : "59",
+name : " Clumber Spaniel"
+},
+
+{
+id : "60",
+name : " Collie"
+},
+
+{
+id : "61",
+name : " Curly-Coated Retriever"
+},
+
+{
+id : "62",
+name : " Dachshund (Standard)"
+},
+
+{
+id : "63",
+name : " Dachsund (Miniature)"
+},
+
+{
+id : "64",
+name : " Dalmatian"
+},
+
+{
+id : "65",
+name : " Dandie Dinmont Terrier"
+},
+
+{
+id : "66",
+name : " Doberman Pinscher"
+},
+
+{
+id : "67",
+name : " English Cocker Spaniel"
+},
+
+{
+id : "68",
+name : " English Foxhound"
+},
+
+{
+id : "69",
+name : " English Setter"
+},
+
+{
+id : "70",
+name : " English Springer Spaniel"
+},
+
+{
+id : "71",
+name : " English Toy Spaniel"
+},
+
+{
+id : "72",
+name : " Field Spaniel"
+},
+
+{
+id : "73",
+name : " Finnish Spitz"
+},
+
+{
+id : "74",
+name : " Flat-Coated Retriever"
+},
+
+{
+id : "75",
+name : " French Bulldog"
+},
+
+{
+id : "76",
+name : " German Shepherd Dog"
+},
+
+{
+id : "77",
+name : " German Shorthaired Pointer"
+},
+
+{
+id : "78",
+name : " German Wirehaired Pointer"
+},
+
+{
+id : "79",
+name : " Giant Schnauzer"
+},
+
+{
+id : "80",
+name : " Golden Retriever"
+},
+
+{
+id : "81",
+name : " Gordon Setter"
+},
+
+{
+id : "82",
+name : " Great Dane"
+},
+
+{
+id : "83",
+name : " Great Pyrenees"
+},
+
+{
+id : "84",
+name : " Greater Swiss Mountain Dog"
+},
+
+{
+id : "85",
+name : " Greyhound"
+},
+
+{
+id : "86",
+name : " Harrier"
+},
+
+{
+id : "87",
+name : " Havanese"
+},
+
+{
+id : "88",
+name : " Ibizan Hound"
+},
+
+{
+id : "89",
+name : " Irish Setter"
+},
+
+{
+id : "90",
+name : " Irish Terrier"
+},
+
+{
+id : "91",
+name : " Irish Water Spaniel"
+},
+
+{
+id : "92",
+name : " Irish Wolfhound"
+},
+
+{
+id : "93",
+name : " Italian Greyhound"
+},
+
+{
+id : "94",
+name : " Jack Russell Terrier"
+},
+
+{
+id : "95",
+name : " Japanese Chin"
+},
+
+{
+id : "96",
+name : " Keeshond"
+},
+
+{
+id : "97",
+name : " Kerry Blue Terrier"
+},
+
+{
+id : "98",
+name : " Komondor"
+},
+
+{
+id : "99",
+name : " Kuvasz"
+},
+
+{
+id : "100",
+name : " Labrador Retriever"
+},
+
+{
+id : "101",
+name : " Lakeland Terrier"
+},
+
+{
+id : "102",
+name : " Lhasa Apso"
+},
+
+{
+id : "103",
+name : " Lowchen"
+},
+
+{
+id : "104",
+name : " Maltese"
+},
+
+{
+id : "105",
+name : " Manchester Terrier (Standard)"
+},
+
+{
+id : "106",
+name : " Manchester Terrier (Toy)"
+},
+
+{
+id : "107",
+name : " Mastiff"
+},
+
+{
+id : "108",
+name : " Miniature Bull Terrier"
+},
+
+{
+id : "109",
+name : " Miniature Pinscher"
+},
+
+{
+id : "110",
+name : " Miniature Schnauzer"
+},
+
+{
+id : "111",
+name : " Newfoundland"
+},
+
+{
+id : "112",
+name : " Norfolk Terrier"
+},
+
+{
+id : "113",
+name : " Norwegian Elkhound"
+},
+
+{
+id : "114",
+name : " Norwich Terrier"
+},
+
+{
+id : "115",
+name : " Old English Sheepdog"
+},
+
+{
+id : "116",
+name : " Otterhound"
+},
+
+{
+id : "117",
+name : " Papillon"
+},
+
+{
+id : "118",
+name : " Pekingese"
+},
+
+{
+id : "119",
+name : " Pembroke Welsh Corgi"
+},
+
+{
+id : "120",
+name : " Petit Basset Griffon Vendeen"
+},
+
+{
+id : "121",
+name : " Pharaoh Hound"
+},
+
+{
+id : "122",
+name : " Pointer"
+},
+
+{
+id : "123",
+name : " Pomeranian"
+},
+
+{
+id : "124",
+name : " Poodle (Miniature)"
+},
+
+{
+id : "125",
+name : " Poodle (Standard)"
+},
+
+{
+id : "126",
+name : " Poodle (Toy)"
+},
+
+{
+id : "127",
+name : " Portuguese Water Dog"
+},
+
+{
+id : "128",
+name : " Pug"
+},
+
+{
+id : "129",
+name : " Puli"
+},
+
+{
+id : "130",
+name : " Rhodesian Ridgeback"
+},
+
+{
+id : "131",
+name : " Rottweiler"
+},
+
+{
+id : "132",
+name : " Saint Bernard"
+},
+
+{
+id : "133",
+name : " Saluki (or Gazelle Hound)"
+},
+
+{
+id : "134",
+name : " Samoyed"
+},
+
+{
+id : "135",
+name : " Schipperke"
+},
+
+{
+id : "136",
+name : " Scottish Deerhound"
+},
+
+{
+id : "137",
+name : " Scottish Terrier"
+},
+
+{
+id : "138",
+name : " Sealyham Terrier"
+},
+
+{
+id : "139",
+name : " Shetland Sheepdog"
+},
+
+{
+id : "140",
+name : " Shiba Inu"
+},
+
+{
+id : "141",
+name : " Shih Tzu"
+},
+
+{
+id : "142",
+name : " Siberian Husky"
+},
+
+{
+id : "143",
+name : " Silky Terrier"
+},
+
+{
+id : "144",
+name : " Skye Terrier"
+},
+
+{
+id : "145",
+name : " Smooth Fox Terrier"
+},
+
+{
+id : "146",
+name : " Soft Coated Wheaten Terrier"
+},
+
+{
+id : "147",
+name : " Spinone Italiano"
+},
+
+{
+id : "149",
+name : " Staffordshire Bull Terrier"
+},
+
+{
+id : "150",
+name : " Standard Schnauzer"
+},
+
+{
+id : "151",
+name : " Sussex Spaniel"
+},
+
+{
+id : "152",
+name : " Tibetan Spaniel"
+},
+
+{
+id : "153",
+name : " Tibetan Terrier"
+},
+
+{
+id : "154",
+name : " Vizsla"
+},
+
+{
+id : "155",
+name : " Weimaraner"
+},
+
+{
+id : "156",
+name : " Welsh Springer Spaniel"
+},
+
+{
+id : "157",
+name : " Welsh Terrier"
+},
+
+{
+id : "158",
+name : " West Highland White Terrier"
+},
+
+{
+id : "159",
+name : " Whippet"
+},
+
+{
+id : "160",
+name : " Wire Fox Terrier"
+},
+
+{
+id : "161",
+name : " Wirehaired Pointing Griffon"
+},
+
+{
+id : "162",
+name : " Yorkshire Terrier"
+},
+
+{
+id : "163",
+name : " Affenpinscher"
+},
+
+{
+id : "164",
+name : " Africanis"
+},
+
+{
+id : "165",
+name : " Aidi"
+},
+
+{
+id : "166",
+name : " Akbash Dog"
+},
+
+{
+id : "167",
+name : " Alano Espanol"
+},
+
+{
+id : "168",
+name : " Alapaha Blue Blood Bulldog"
+},
+
+{
+id : "174",
+name : " Argentine Dogo"
+},
+
+{
+id : "178",
+name : " Australian Kelpie"
+},
+
+{
+id : "181",
+name : " Austrian Black and Tan Hound"
+},
+
+{
+id : "182",
+name : " Austrian Pinscher"
+},
+
+{
+id : "183",
+name : " Azawakh"
+},
+
+{
+id : "186",
+name : " Andalusian Hound"
+},
+
+{
+id : "193",
+name : " Alaskan Klee Kai"
+},
+
+{
+id : "194",
+name : " American Pit Bull Terrier"
+},
+
+{
+id : "195",
+name : " American Staghound"
+},
+
+{
+id : "196",
+name : " American White Shepherd"
+},
+
+{
+id : "197",
+name : " Appenzeller Sennenhund"
+},
+
+{
+id : "199",
+name : " Ariege Pointer"
+},
+
+{
+id : "200",
+name : " Ariegeois"
+},
+
+{
+id : "201",
+name : " Australian Bulldog"
+},
+
+{
+id : "203",
+name : " Australian Silky Terrier"
+},
+
+{
+id : "204",
+name : " Australian Stumpy Tail Cattle Dog"
+},
+
+{
+id : "208",
+name : " Alopekis"
+},
+
+{
+id : "209",
+name : " American Bulldog"
+},
+
+{
+id : "211",
+name : " Boston Terrier"
+},
+
+{
+id : "212",
+name : " Barbet"
+},
+
+{
+id : "213",
+name : " Basset Bleu de Gascogne"
+},
+
+{
+id : "214",
+name : " Basset Fauve de Bretagne"
+},
+
+{
+id : "215",
+name : " Bavarian Mountain Hound"
+},
+
+{
+id : "216",
+name : " Beauceron"
+},
+
+{
+id : "217",
+name : " Bergamasco"
+},
+
+{
+id : "218",
+name : " Berger Picard"
+},
+
+{
+id : "219",
+name : " Blackmouth Cur"
+},
+
+{
+id : "220",
+name : " Black Norwegian Elkhound"
+},
+
+{
+id : "221",
+name : " Black Russian Terrier"
+},
+
+{
+id : "222",
+name : " Blue Lacy"
+},
+
+{
+id : "223",
+name : " Blue Picardy Spaniel"
+},
+
+{
+id : "224",
+name : " Bohemian Shepherd"
+},
+
+{
+id : "225",
+name : " Bluetick Coonhound"
+},
+
+{
+id : "226",
+name : " Boerboel"
+},
+
+{
+id : "227",
+name : " Bouvier de Ardennes"
+},
+
+{
+id : "228",
+name : " Boykin Spaniel"
+},
+
+{
+id : "229",
+name : " Bracco Italiano"
+},
+
+{
+id : "230",
+name : " Braque du Bourbonnais"
+},
+
+{
+id : "231",
+name : " Brazilian Terrier"
+},
+
+{
+id : "232",
+name : " Briquet Griffon Vendeen"
+},
+
+{
+id : "233",
+name : " Bukovina Sheepdog"
+},
+
+{
+id : "234",
+name : " Bulgarian Shepherd Dog"
+},
+
+{
+id : "235",
+name : " Basset Artesien Normand"
+},
+
+{
+id : "236",
+name : " Beagle-Harrier"
+},
+
+{
+id : "237",
+name : " Beaglier"
+},
+
+{
+id : "238",
+name : " Cao da Serra de Aires"
+},
+
+{
+id : "239",
+name : " Canadian Eskimo Dog"
+},
+
+{
+id : "240",
+name : " Cane Corso Italiano"
+},
+
+{
+id : "241",
+name : " Caravan Hound"
+},
+
+{
+id : "242",
+name : " Carolina Dog"
+},
+
+{
+id : "243",
+name : " Carpathian Sheepdog"
+},
+
+{
+id : "244",
+name : " Catahoula Bulldog"
+},
+
+{
+id : "245",
+name : " Catahoula Leopard Dog"
+},
+
+{
+id : "246",
+name : " Catalan Sheepdog"
+},
+
+{
+id : "247",
+name : " Caucasian Ovtcharka"
+},
+
+{
+id : "248",
+name : " Central Asian Ovtcharka"
+},
+
+{
+id : "249",
+name : " Cesky Fousek"
+},
+
+{
+id : "250",
+name : " Cesky Terrier"
+},
+
+{
+id : "251",
+name : " Chart Polski"
+},
+
+{
+id : "252",
+name : " Cirneco Dell Etna"
+},
+
+{
+id : "253",
+name : " Cockapoo"
+},
+
+{
+id : "254",
+name : " Croatian Sheepdog"
+},
+
+{
+id : "255",
+name : " Czechoslovakian Wolfdog"
+},
+
+{
+id : "256",
+name : " Catahoula Cur"
+},
+
+{
+id : "257",
+name : " Danish-Swedish Farmdog"
+},
+
+{
+id : "258",
+name : " Deutsche Bracke"
+},
+
+{
+id : "259",
+name : " Dingo"
+},
+
+{
+id : "260",
+name : " Dogue de Bordeaux"
+},
+
+{
+id : "261",
+name : " Drentse Patrijshond"
+},
+
+{
+id : "262",
+name : " Drever"
+},
+
+{
+id : "263",
+name : " Dunker"
+},
+
+{
+id : "264",
+name : " Dutch Shepherd Dog"
+},
+
+{
+id : "265",
+name : " Dutch Smoushond"
+},
+
+{
+id : "266",
+name : " English Mastiff"
+},
+
+{
+id : "267",
+name : " East Siberian Laika"
+},
+
+{
+id : "268",
+name : " East-European Shepherd"
+},
+
+{
+id : "269",
+name : " English Coonhound"
+},
+
+{
+id : "270",
+name : " English Shepherd"
+},
+
+{
+id : "271",
+name : " Entlebucher Mountain Dog"
+},
+
+{
+id : "272",
+name : " Eurasier"
+},
+
+{
+id : "273",
+name : " French Brittany"
+},
+
+{
+id : "274",
+name : " Fila Brasileiro"
+},
+
+{
+id : "275",
+name : " Finnish Hound"
+},
+
+{
+id : "276",
+name : " Finnish Lapphund"
+},
+
+{
+id : "277",
+name : " Francais Blanc et Noir"
+},
+
+{
+id : "278",
+name : " German Longhaired Pointer"
+},
+
+{
+id : "279",
+name : " German Pinscher"
+},
+
+{
+id : "280",
+name : " Goldendoodle"
+},
+
+{
+id : "281",
+name : " Glen of Imaal Terrier"
+},
+
+{
+id : "282",
+name : " Grand Basset Griffon Vendeen"
+},
+
+{
+id : "283",
+name : " Greenland Dog"
+},
+
+{
+id : "284",
+name : " Griffon bleu de Gascogne"
+},
+
+{
+id : "285",
+name : " Groenendael"
+},
+
+{
+id : "286",
+name : " Hamilton Hound"
+},
+
+{
+id : "287",
+name : " Hokkaido Dog"
+},
+
+{
+id : "288",
+name : " Hovawart"
+},
+
+{
+id : "289",
+name : " Icelandic Sheepdog"
+},
+
+{
+id : "290",
+name : " Jagdterrier"
+},
+
+{
+id : "291",
+name : " Jamthund (Swedish Elkhound)"
+},
+
+{
+id : "292",
+name : " Japanese Spitz"
+},
+
+{
+id : "293",
+name : " Japanese Terrier"
+},
+
+{
+id : "294",
+name : " Korean Jindo Dog"
+},
+
+{
+id : "295",
+name : " Karelian Bear Dog"
+},
+
+{
+id : "296",
+name : " Kishu"
+},
+
+{
+id : "297",
+name : " Kooikerhondje"
+},
+
+{
+id : "298",
+name : " Koolie"
+},
+
+{
+id : "299",
+name : " Kromfohrlander"
+},
+
+{
+id : "300",
+name : " Large Munsterlander"
+},
+
+{
+id : "301",
+name : " Lagotto Romagnolo"
+},
+
+{
+id : "302",
+name : " Lancashire Heeler"
+},
+
+{
+id : "303",
+name : " Landseer"
+},
+
+{
+id : "304",
+name : " Lapponian Herder"
+},
+
+{
+id : "305",
+name : " Leonberger"
+},
+
+{
+id : "306",
+name : " McNab"
+},
+
+{
+id : "307",
+name : " Mudi"
+},
+
+{
+id : "308",
+name : " Neapolitan Mastiff"
+},
+
+{
+id : "309",
+name : " New Guinea Singing Dog"
+},
+
+{
+id : "310",
+name : " Norrbottenspets"
+},
+
+{
+id : "311",
+name : " Northern Inuit Dog"
+},
+
+{
+id : "312",
+name : " Norwegian Buhund"
+},
+
+{
+id : "313",
+name : " Norwegian Lundehund"
+},
+
+{
+id : "314",
+name : " Tolling Retriever"
+},
+
+{
+id : "315",
+name : " Olde English Bulldogge"
+},
+
+{
+id : "316",
+name : " Polish Hunting Dog"
+},
+
+{
+id : "317",
+name : " Pakistani Mastiff"
+},
+
+{
+id : "318",
+name : " Patterdale Terrier"
+},
+
+{
+id : "319",
+name : " Parson Russell Terrier"
+},
+
+{
+id : "320",
+name : " Perro de Presa Canario"
+},
+
+{
+id : "321",
+name : " Perro de Presa Mallorquin"
+},
+
+{
+id : "322",
+name : " Peruvian Inca Orchid"
+},
+
+{
+id : "323",
+name : " Picardy Spaniel"
+},
+
+{
+id : "324",
+name : " Plott Hound"
+},
+
+{
+id : "325",
+name : " Plummer Terrier"
+},
+
+{
+id : "326",
+name : " Polish Lowland Sheepdog"
+},
+
+{
+id : "327",
+name : " Portuguese Podengo"
+},
+
+{
+id : "328",
+name : " Prazsky Krysarik"
+},
+
+{
+id : "329",
+name : " Pudelpointer"
+},
+
+{
+id : "330",
+name : " Pyrenean Shepherd"
+},
+
+{
+id : "331",
+name : " Pont-Audemer Spaniel"
+},
+
+{
+id : "332",
+name : " Rafeiro do Alentejo"
+},
+
+{
+id : "333",
+name : " Rajapalyam dog"
+},
+
+{
+id : "334",
+name : " Rat Terrier"
+},
+
+{
+id : "335",
+name : " Redbone Coonhound"
+},
+
+{
+id : "336",
+name : " Russian Spaniel"
+},
+
+{
+id : "337",
+name : " Russian Toy"
+},
+
+{
+id : "338",
+name : " Small Munsterlander"
+},
+
+{
+id : "339",
+name : " Rough Collie"
+},
+
+{
+id : "340",
+name : " Saarloos wolfdog"
+},
+
+{
+id : "341",
+name : " Sapsali"
+},
+
+{
+id : "342",
+name : " Sarplaninac"
+},
+
+{
+id : "343",
+name : " Schapendoes"
+},
+
+{
+id : "344",
+name : " Seppala Siberian Sleddog"
+},
+
+{
+id : "345",
+name : " Shar-Pei"
+},
+
+{
+id : "346",
+name : " Shikoku"
+},
+
+{
+id : "347",
+name : " Shiloh Shepherd dog"
+},
+
+{
+id : "348",
+name : " Silken Windhound"
+},
+
+{
+id : "349",
+name : " Sloughi"
+},
+
+{
+id : "350",
+name : " Smaland Hound"
+},
+
+{
+id : "351",
+name : " Smooth Collie"
+},
+
+{
+id : "352",
+name : " Spanish Mastiff"
+},
+
+{
+id : "353",
+name : " Spanish Water Dog"
+},
+
+{
+id : "354",
+name : " Serbian Hound"
+},
+
+{
+id : "355",
+name : " Swedish Lapphund"
+},
+
+{
+id : "356",
+name : " Swedish Vallhund"
+},
+
+{
+id : "357",
+name : " Tamaskan Dog"
+},
+
+{
+id : "358",
+name : " Thai Bangkaew Dog"
+},
+
+{
+id : "359",
+name : " Thai Ridgeback"
+},
+
+{
+id : "360",
+name : " Tibetan Mastiff"
+},
+
+{
+id : "361",
+name : " Tornjak"
+},
+
+{
+id : "362",
+name : " Tosa"
+},
+
+{
+id : "363",
+name : " Transylvanian Hound"
+},
+
+{
+id : "364",
+name : " Treeing Walker Coonhound"
+},
+
+{
+id : "365",
+name : " Volpino Italiano"
+},
+
+{
+id : "366",
+name : " West Siberian Laika"
+},
+
+{
+id : "367",
+name : " Wetterhoun"
+},
+
+{
+id : "368",
+name : " Xoloitzcuintle"
+},
+
+}
+
+]
