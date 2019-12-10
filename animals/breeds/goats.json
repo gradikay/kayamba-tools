@@ -1,0 +1,503 @@
+/**
+Export to JSON plugin for PHPMyAdmin
+@version 0.1
+*/
+// Author: Gradi Kayamba
+// animaldatabase.goats
+[
+{
+"id" : "1",
+"name" : " Alpine"
+},
+
+{
+"id" : "2",
+"name" : " Altai Mountain"
+},
+
+{
+"id" : "3",
+"name" : " American Lamancha"
+},
+
+{
+"id" : "4",
+"name" : " Anatolian Black Goat"
+},
+
+{
+"id" : "5",
+"name" : " Anglo-Nubian"
+},
+
+{
+"id" : "6",
+"name" : " Angora"
+},
+
+{
+"id" : "7",
+"name" : " Appenzell Goat"
+},
+
+{
+"id" : "8",
+"name" : " Arapawa"
+},
+
+{
+"id" : "9",
+"name" : " Argentata of Etna"
+},
+
+{
+"id" : "10",
+"name" : " Australian Cashmere"
+},
+
+{
+"id" : "11",
+"name" : " Bagot"
+},
+
+{
+"id" : "12",
+"name" : " Barbari"
+},
+
+{
+"id" : "13",
+"name" : " Beetal"
+},
+
+{
+"id" : "14",
+"name" : " Belgian Fawn"
+},
+
+{
+"id" : "15",
+"name" : " Bilberry"
+},
+
+{
+"id" : "16",
+"name" : " Bionda dell'Adamello"
+},
+
+{
+"id" : "17",
+"name" : " Black Bengal"
+},
+
+{
+"id" : "18",
+"name" : " Boer"
+},
+
+{
+"id" : "19",
+"name" : " British Alpine"
+},
+
+{
+"id" : "20",
+"name" : " Canindé"
+},
+
+{
+"id" : "21",
+"name" : " Carpathian"
+},
+
+{
+"id" : "22",
+"name" : " Chyangra"
+},
+
+{
+"id" : "23",
+"name" : " Chamois Coloured goat"
+},
+
+{
+"id" : "24",
+"name" : " Changthangi"
+},
+
+{
+"id" : "25",
+"name" : " Charnequeira"
+},
+
+{
+"id" : "26",
+"name" : " Chengde Polled"
+},
+
+{
+"id" : "27",
+"name" : " Chengdu Brown"
+},
+
+{
+"id" : "28",
+"name" : " Chigu"
+},
+
+{
+"id" : "29",
+"name" : " Corsican"
+},
+
+{
+"id" : "30",
+"name" : " Dera Din Panah"
+},
+
+{
+"id" : "31",
+"name" : " Damascus"
+},
+
+{
+"id" : "32",
+"name" : " Danish Landrace"
+},
+
+{
+"id" : "33",
+"name" : " Don"
+},
+
+{
+"id" : "34",
+"name" : " Duan"
+},
+
+{
+"id" : "35",
+"name" : " Dutch Landrace"
+},
+
+{
+"id" : "36",
+"name" : " Dutch Toggenburg"
+},
+
+{
+"id" : "37",
+"name" : " Erzgebirge"
+},
+
+{
+"id" : "38",
+"name" : " Fainting"
+},
+
+{
+"id" : "39",
+"name" : " Garganica"
+},
+
+{
+"id" : "40",
+"name" : " Girgentana"
+},
+
+{
+"id" : "41",
+"name" : " Golden Guernsey"
+},
+
+{
+"id" : "42",
+"name" : " Grisons Striped"
+},
+
+{
+"id" : "43",
+"name" : " Hejazi"
+},
+
+{
+"id" : "44",
+"name" : " Hexi Cashmere"
+},
+
+{
+"id" : "45",
+"name" : " Huaipi"
+},
+
+{
+"id" : "46",
+"name" : " Hungarian Improved"
+},
+
+{
+"id" : "47",
+"name" : " Icelandic"
+},
+
+{
+"id" : "48",
+"name" : " Irish"
+},
+
+{
+"id" : "49",
+"name" : " Jamnapari"
+},
+
+{
+"id" : "50",
+"name" : " Jining Grey"
+},
+
+{
+"id" : "51",
+"name" : " Jonica"
+},
+
+{
+"id" : "52",
+"name" : " Kaghani"
+},
+
+{
+"id" : "53",
+"name" : " Kalahari Red"
+},
+
+{
+"id" : "54",
+"name" : " Kamori"
+},
+
+{
+"id" : "55",
+"name" : " Kinder"
+},
+
+{
+"id" : "56",
+"name" : " Kiko"
+},
+
+{
+"id" : "57",
+"name" : " Kri-kri"
+},
+
+{
+"id" : "58",
+"name" : " Laoshan"
+},
+
+{
+"id" : "59",
+"name" : " Majorera"
+},
+
+{
+"id" : "60",
+"name" : " Maltese"
+},
+
+{
+"id" : "61",
+"name" : " Massif Central"
+},
+
+{
+"id" : "62",
+"name" : " Mini Oberhasli"
+},
+
+{
+"id" : "63",
+"name" : " Mountain Goat"
+},
+
+{
+"id" : "64",
+"name" : " Murcia-Granada"
+},
+
+{
+"id" : "65",
+"name" : " Murciana"
+},
+
+{
+"id" : "66",
+"name" : " Nigerian Dwarf"
+},
+
+{
+"id" : "67",
+"name" : " Nigora goat"
+},
+
+{
+"id" : "68",
+"name" : " Norwegian"
+},
+
+{
+"id" : "69",
+"name" : " Oberhasli"
+},
+
+{
+"id" : "70",
+"name" : " Orobica"
+},
+
+{
+"id" : "71",
+"name" : " Peacock"
+},
+
+{
+"id" : "72",
+"name" : " Philippine"
+},
+
+{
+"id" : "73",
+"name" : " Pygmy"
+},
+
+{
+"id" : "74",
+"name" : " Pygora"
+},
+
+{
+"id" : "75",
+"name" : " Pyrenean"
+},
+
+{
+"id" : "76",
+"name" : " Repartida"
+},
+
+{
+"id" : "77",
+"name" : " Rove"
+},
+
+{
+"id" : "78",
+"name" : " Russian White"
+},
+
+{
+"id" : "79",
+"name" : " Saanen"
+},
+
+{
+"id" : "80",
+"name" : " Sable Saanen"
+},
+
+{
+"id" : "81",
+"name" : " Sahelian"
+},
+
+{
+"id" : "82",
+"name" : " San Clemente Island"
+},
+
+{
+"id" : "83",
+"name" : " Sarda"
+},
+
+{
+"id" : "84",
+"name" : " Sirohi"
+},
+
+{
+"id" : "85",
+"name" : " Swedish Landrace"
+},
+
+{
+"id" : "86",
+"name" : " Somali"
+},
+
+{
+"id" : "87",
+"name" : " Spanish"
+},
+
+{
+"id" : "88",
+"name" : " Stiefelgeiss"
+},
+
+{
+"id" : "89",
+"name" : " Surati"
+},
+
+{
+"id" : "90",
+"name" : " Tauernsheck"
+},
+
+{
+"id" : "91",
+"name" : " Thuringian"
+},
+
+{
+"id" : "92",
+"name" : " Toggenburg"
+},
+
+{
+"id" : "93",
+"name" : " Uzbek Black"
+},
+
+{
+"id" : "94",
+"name" : " Valais Blackneck"
+},
+
+{
+"id" : "95",
+"name" : " Verata"
+},
+
+{
+"id" : "96",
+"name" : " West African Dwarf"
+},
+
+{
+"id" : "97",
+"name" : " White Shorthaired"
+},
+
+{
+"id" : "98",
+"name" : " Zalawadi"
+},
+
+{
+"id" : "99",
+"name" : " Zhongwei"
+},
+
+]
