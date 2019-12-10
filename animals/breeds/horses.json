@@ -1,0 +1,1358 @@
+/**
+Export to JSON plugin for PHPMyAdmin
+@version 0.1
+*/
+// Author: Gradi Kayamba
+// animaldatabase.horses
+[
+{
+"id" : "1",
+"name" : " Abtenauer"
+},
+
+{
+"id" : "2",
+"name" : " Abyssinian horse"
+},
+
+{
+"id" : "3",
+"name" : " Aegidienberger"
+},
+
+{
+"id" : "4",
+"name" : " Akhal-Teke"
+},
+
+{
+"id" : "5",
+"name" : " Albanian horse"
+},
+
+{
+"id" : "6",
+"name" : " Altai horse"
+},
+
+{
+"id" : "7",
+"name" : " American Cream Draft"
+},
+
+{
+"id" : "8",
+"name" : " American Indian Horse"
+},
+
+{
+"id" : "9",
+"name" : " American Paint Horse"
+},
+
+{
+"id" : "10",
+"name" : " American Quarter Horse"
+},
+
+{
+"id" : "11",
+"name" : " American Saddlebred"
+},
+
+{
+"id" : "12",
+"name" : " American Warmblood"
+},
+
+{
+"id" : "13",
+"name" : " Andalusian horse"
+},
+
+{
+"id" : "14",
+"name" : " Andravida horse"
+},
+
+{
+"id" : "15",
+"name" : " Anglo-Arabian"
+},
+
+{
+"id" : "16",
+"name" : " Anglo-Kabarda"
+},
+
+{
+"id" : "17",
+"name" : " Appaloosa"
+},
+
+{
+"id" : "18",
+"name" : " AraAppaloosa"
+},
+
+{
+"id" : "19",
+"name" : " Arabian horse"
+},
+
+{
+"id" : "20",
+"name" : " Ardennes horse"
+},
+
+{
+"id" : "21",
+"name" : " Arenberg-Nordkirchen"
+},
+
+{
+"id" : "22",
+"name" : " Asturcón"
+},
+
+{
+"id" : "23",
+"name" : " Augeron"
+},
+
+{
+"id" : "24",
+"name" : " Australian Draught Horse"
+},
+
+{
+"id" : "25",
+"name" : " Australian Stock Horse"
+},
+
+{
+"id" : "26",
+"name" : " Austrian Warmblood"
+},
+
+{
+"id" : "27",
+"name" : " Auvergne horse"
+},
+
+{
+"id" : "28",
+"name" : " Auxois"
+},
+
+{
+"id" : "29",
+"name" : " Azerbaijan horse"
+},
+
+{
+"id" : "30",
+"name" : " Azteca horse"
+},
+
+{
+"id" : "31",
+"name" : " Baise horse"
+},
+
+{
+"id" : "32",
+"name" : " Balearic horse"
+},
+
+{
+"id" : "33",
+"name" : " Balikun horse"
+},
+
+{
+"id" : "34",
+"name" : " Baluchi horse"
+},
+
+{
+"id" : "35",
+"name" : " Ban'ei"
+},
+
+{
+"id" : "36",
+"name" : " Banker Horse"
+},
+
+{
+"id" : "37",
+"name" : " Barb horse"
+},
+
+{
+"id" : "38",
+"name" : " Bardigiano"
+},
+
+{
+"id" : "39",
+"name" : " Basque mountain horse"
+},
+
+{
+"id" : "40",
+"name" : " Bavarian Warmblood"
+},
+
+{
+"id" : "41",
+"name" : " Belgian (horse)"
+},
+
+{
+"id" : "42",
+"name" : " Belgian Warmblood"
+},
+
+{
+"id" : "43",
+"name" : " Black Forest Horse"
+},
+
+{
+"id" : "44",
+"name" : " Blazer horse"
+},
+
+{
+"id" : "45",
+"name" : " Boulonnais horse"
+},
+
+{
+"id" : "46",
+"name" : " Brandenburger"
+},
+
+{
+"id" : "47",
+"name" : " Brazilian Sport Horse"
+},
+
+{
+"id" : "48",
+"name" : " Breton horse"
+},
+
+{
+"id" : "49",
+"name" : " Brumby"
+},
+
+{
+"id" : "50",
+"name" : " Budyonny horse"
+},
+
+{
+"id" : "51",
+"name" : " Burguete horse"
+},
+
+{
+"id" : "52",
+"name" : " Byelorussian Harness horse"
+},
+
+{
+"id" : "53",
+"name" : " Calabrese horse"
+},
+
+{
+"id" : "54",
+"name" : " Camargue horse"
+},
+
+{
+"id" : "55",
+"name" : " Camarillo White Horse"
+},
+
+{
+"id" : "56",
+"name" : " Campolina"
+},
+
+{
+"id" : "57",
+"name" : " Canadian horse"
+},
+
+{
+"id" : "58",
+"name" : " Canadian Pacer"
+},
+
+{
+"id" : "59",
+"name" : " Carolina Marsh Tacky"
+},
+
+{
+"id" : "60",
+"name" : " Caspian horse"
+},
+
+{
+"id" : "61",
+"name" : " Castillonnais"
+},
+
+{
+"id" : "62",
+"name" : " Catria horse"
+},
+
+{
+"id" : "63",
+"name" : " Cavallo Romano della Maremma Laziale"
+},
+
+{
+"id" : "64",
+"name" : " Chilean horse"
+},
+
+{
+"id" : "65",
+"name" : " Choctaw horse"
+},
+
+{
+"id" : "66",
+"name" : " Cleveland Bay"
+},
+
+{
+"id" : "67",
+"name" : " Clydesdale horse"
+},
+
+{
+"id" : "68",
+"name" : " Colorado Ranger"
+},
+
+{
+"id" : "69",
+"name" : " Coldblood trotter"
+},
+
+{
+"id" : "70",
+"name" : " Comtois horse"
+},
+
+{
+"id" : "71",
+"name" : " Corsican horse"
+},
+
+{
+"id" : "72",
+"name" : " Costa Rican Saddle Horse"
+},
+
+{
+"id" : "73",
+"name" : " Criollo horse"
+},
+
+{
+"id" : "74",
+"name" : " Croatian Coldblood"
+},
+
+{
+"id" : "75",
+"name" : " Cuban Criollo"
+},
+
+{
+"id" : "76",
+"name" : " Cumberland Island horse"
+},
+
+{
+"id" : "77",
+"name" : " Curly Horse"
+},
+
+{
+"id" : "78",
+"name" : " Czech warm blood"
+},
+
+{
+"id" : "79",
+"name" : " Danish Warmblood"
+},
+
+{
+"id" : "80",
+"name" : " Danube Delta horse"
+},
+
+{
+"id" : "81",
+"name" : " Dole Gudbrandsdal"
+},
+
+{
+"id" : "82",
+"name" : " Dongola horse"
+},
+
+{
+"id" : "83",
+"name" : " Dutch harness horse"
+},
+
+{
+"id" : "84",
+"name" : " Dutch Heavy Draft"
+},
+
+{
+"id" : "85",
+"name" : " Dutch Warmblood"
+},
+
+{
+"id" : "86",
+"name" : " East Bulgarian"
+},
+
+{
+"id" : "87",
+"name" : " Estonian Draft"
+},
+
+{
+"id" : "88",
+"name" : " Estonian horse"
+},
+
+{
+"id" : "89",
+"name" : " Falabella"
+},
+
+{
+"id" : "90",
+"name" : " Finnhorse"
+},
+
+{
+"id" : "91",
+"name" : " Fjord horse"
+},
+
+{
+"id" : "92",
+"name" : " Florida Cracker Horse"
+},
+
+{
+"id" : "93",
+"name" : " Fouta"
+},
+
+{
+"id" : "94",
+"name" : " Frederiksborg horse"
+},
+
+{
+"id" : "95",
+"name" : " Freiberger"
+},
+
+{
+"id" : "96",
+"name" : " French Trotter"
+},
+
+{
+"id" : "97",
+"name" : " Friesian cross"
+},
+
+{
+"id" : "98",
+"name" : " Friesian horse"
+},
+
+{
+"id" : "99",
+"name" : " Friesian Sporthorse"
+},
+
+{
+"id" : "100",
+"name" : " Furioso-North Star"
+},
+
+{
+"id" : "101",
+"name" : " Galiceno"
+},
+
+{
+"id" : "102",
+"name" : " Galician Pony"
+},
+
+{
+"id" : "103",
+"name" : " Gelderland horse"
+},
+
+{
+"id" : "104",
+"name" : " Georgian Grande Horse"
+},
+
+{
+"id" : "105",
+"name" : " Giara Horse"
+},
+
+{
+"id" : "106",
+"name" : " Gidran"
+},
+
+{
+"id" : "107",
+"name" : " Groningen Horse"
+},
+
+{
+"id" : "108",
+"name" : " Gypsy horse,"
+},
+
+{
+"id" : "109",
+"name" : " Hackney horse"
+},
+
+{
+"id" : "110",
+"name" : " Haflinger"
+},
+
+{
+"id" : "111",
+"name" : " Hanoverian horse"
+},
+
+{
+"id" : "112",
+"name" : " Heck horse"
+},
+
+{
+"id" : "113",
+"name" : " Heihe horse"
+},
+
+{
+"id" : "114",
+"name" : " Henson horse"
+},
+
+{
+"id" : "115",
+"name" : " Hirzai"
+},
+
+{
+"id" : "116",
+"name" : " Hispano-Bretón"
+},
+
+{
+"id" : "117",
+"name" : " Hispano-Árabe"
+},
+
+{
+"id" : "118",
+"name" : " Holsteiner horse"
+},
+
+{
+"id" : "119",
+"name" : " Hungarian Warmblood"
+},
+
+{
+"id" : "120",
+"name" : " Icelandic horse"
+},
+
+{
+"id" : "121",
+"name" : " Indian Half-Bred"
+},
+
+{
+"id" : "122",
+"name" : " Iomud"
+},
+
+{
+"id" : "123",
+"name" : " Irish Draught"
+},
+
+{
+"id" : "124",
+"name" : " Irish Sport Horse"
+},
+
+{
+"id" : "125",
+"name" : " Italian Heavy Draft"
+},
+
+{
+"id" : "126",
+"name" : " Italian Trotter"
+},
+
+{
+"id" : "127",
+"name" : " Jaca Navarra"
+},
+
+{
+"id" : "128",
+"name" : " Jeju horse"
+},
+
+{
+"id" : "129",
+"name" : " Jutland horse"
+},
+
+{
+"id" : "130",
+"name" : " Kabarda horse"
+},
+
+{
+"id" : "131",
+"name" : " Kaimanawa horses"
+},
+
+{
+"id" : "132",
+"name" : " Kalmyk horse"
+},
+
+{
+"id" : "133",
+"name" : " Karabair"
+},
+
+{
+"id" : "134",
+"name" : " Karabakh horse"
+},
+
+{
+"id" : "135",
+"name" : " Kathiawari"
+},
+
+{
+"id" : "136",
+"name" : " Kazakh Horse"
+},
+
+{
+"id" : "137",
+"name" : " Kentucky Mountain Saddle Horse"
+},
+
+{
+"id" : "138",
+"name" : " Kiger Mustang"
+},
+
+{
+"id" : "139",
+"name" : " Kinsky horse"
+},
+
+{
+"id" : "140",
+"name" : " Kisber Felver"
+},
+
+{
+"id" : "141",
+"name" : " Kiso Horse"
+},
+
+{
+"id" : "142",
+"name" : " Kladruber"
+},
+
+{
+"id" : "143",
+"name" : " Knabstrupper"
+},
+
+{
+"id" : "144",
+"name" : " Konik"
+},
+
+{
+"id" : "145",
+"name" : " Kustanair"
+},
+
+{
+"id" : "146",
+"name" : " Latvian horse"
+},
+
+{
+"id" : "147",
+"name" : " Lipizzan"
+},
+
+{
+"id" : "148",
+"name" : " Lithuanian Heavy Draught"
+},
+
+{
+"id" : "149",
+"name" : " Lokai"
+},
+
+{
+"id" : "150",
+"name" : " Losino horse"
+},
+
+{
+"id" : "151",
+"name" : " Lusitano"
+},
+
+{
+"id" : "152",
+"name" : " Malopolski"
+},
+
+{
+"id" : "153",
+"name" : " Mallorquín"
+},
+
+{
+"id" : "154",
+"name" : " Mangalarga"
+},
+
+{
+"id" : "155",
+"name" : " Mangalarga Marchador"
+},
+
+{
+"id" : "156",
+"name" : " Maremmano"
+},
+
+{
+"id" : "157",
+"name" : " Marismeño horse"
+},
+
+{
+"id" : "158",
+"name" : " Marwari horse"
+},
+
+{
+"id" : "159",
+"name" : " Mecklenburger"
+},
+
+{
+"id" : "160",
+"name" : " Me?imurje horse"
+},
+
+{
+"id" : "161",
+"name" : " Menorquín"
+},
+
+{
+"id" : "162",
+"name" : " Messara horse"
+},
+
+{
+"id" : "163",
+"name" : " Miniature horse"
+},
+
+{
+"id" : "164",
+"name" : " Misaki horse"
+},
+
+{
+"id" : "165",
+"name" : " Missouri Fox Trotter"
+},
+
+{
+"id" : "166",
+"name" : " Monchina"
+},
+
+{
+"id" : "167",
+"name" : " Mongolian Horse"
+},
+
+{
+"id" : "168",
+"name" : " Monterufolino"
+},
+
+{
+"id" : "169",
+"name" : " Morab"
+},
+
+{
+"id" : "170",
+"name" : " Morgan horse"
+},
+
+{
+"id" : "171",
+"name" : " Moyle horse"
+},
+
+{
+"id" : "172",
+"name" : " Murakoz horse"
+},
+
+{
+"id" : "173",
+"name" : " Murgese"
+},
+
+{
+"id" : "174",
+"name" : " Mustang horse"
+},
+
+{
+"id" : "175",
+"name" : " Namib Desert Horse"
+},
+
+{
+"id" : "176",
+"name" : " Nangchen horse"
+},
+
+{
+"id" : "177",
+"name" : " National Show Horse"
+},
+
+{
+"id" : "178",
+"name" : " Nez Perce Horse"
+},
+
+{
+"id" : "179",
+"name" : " Nivernais horse"
+},
+
+{
+"id" : "180",
+"name" : " Nokota horse"
+},
+
+{
+"id" : "181",
+"name" : " Nonius horse"
+},
+
+{
+"id" : "182",
+"name" : " Nordlandshest"
+},
+
+{
+"id" : "183",
+"name" : " Noriker horse"
+},
+
+{
+"id" : "184",
+"name" : " Norman Cob"
+},
+
+{
+"id" : "185",
+"name" : " North Swedish Horse"
+},
+
+{
+"id" : "186",
+"name" : " Novokirghiz"
+},
+
+{
+"id" : "187",
+"name" : " Oberlander Horse"
+},
+
+{
+"id" : "188",
+"name" : " Oldenburg horse"
+},
+
+{
+"id" : "189",
+"name" : " Orlov trotter"
+},
+
+{
+"id" : "190",
+"name" : " Ostfriesen and Alt-Oldenburger"
+},
+
+{
+"id" : "191",
+"name" : " Pampa horse"
+},
+
+{
+"id" : "192",
+"name" : " Paso Fino"
+},
+
+{
+"id" : "193",
+"name" : " Pentro horse"
+},
+
+{
+"id" : "194",
+"name" : " Percheron"
+},
+
+{
+"id" : "195",
+"name" : " Persano horse"
+},
+
+{
+"id" : "196",
+"name" : " Peruvian Paso"
+},
+
+{
+"id" : "197",
+"name" : " Pintabian"
+},
+
+{
+"id" : "198",
+"name" : " Pleven horse"
+},
+
+{
+"id" : "199",
+"name" : " Poitevin horse"
+},
+
+{
+"id" : "200",
+"name" : " Posavac horse"
+},
+
+{
+"id" : "201",
+"name" : " Pryor Mountain Mustang"
+},
+
+{
+"id" : "202",
+"name" : " Przewalski's horse"
+},
+
+{
+"id" : "203",
+"name" : " Purosangue Orientale"
+},
+
+{
+"id" : "204",
+"name" : " Qatgani"
+},
+
+{
+"id" : "205",
+"name" : " Quarab"
+},
+
+{
+"id" : "206",
+"name" : " Racking horse"
+},
+
+{
+"id" : "207",
+"name" : " Retuerta horse"
+},
+
+{
+"id" : "208",
+"name" : " Rhenish German Coldblood"
+},
+
+{
+"id" : "209",
+"name" : " Rhinelander horse"
+},
+
+{
+"id" : "210",
+"name" : " Riwoche horse"
+},
+
+{
+"id" : "211",
+"name" : " Rocky Mountain Horse"
+},
+
+{
+"id" : "212",
+"name" : " Romanian Sporthorse"
+},
+
+{
+"id" : "213",
+"name" : " Russian Don"
+},
+
+{
+"id" : "214",
+"name" : " Russian Heavy Draft"
+},
+
+{
+"id" : "215",
+"name" : " Russian Trotter"
+},
+
+{
+"id" : "216",
+"name" : " Salerno horse"
+},
+
+{
+"id" : "217",
+"name" : " Samolaco horse"
+},
+
+{
+"id" : "218",
+"name" : " San Fratello horse"
+},
+
+{
+"id" : "219",
+"name" : " Sarcidano horse"
+},
+
+{
+"id" : "220",
+"name" : " Sardinian Anglo-Arab"
+},
+
+{
+"id" : "221",
+"name" : " Schleswig Coldblood"
+},
+
+{
+"id" : "222",
+"name" : " Sella Italiano"
+},
+
+{
+"id" : "223",
+"name" : " Selle Français"
+},
+
+{
+"id" : "224",
+"name" : " Shagya Arabian"
+},
+
+{
+"id" : "225",
+"name" : " Shire horse"
+},
+
+{
+"id" : "226",
+"name" : " Siciliano indigeno"
+},
+
+{
+"id" : "227",
+"name" : " Silesian horse"
+},
+
+{
+"id" : "228",
+"name" : " Sorraia"
+},
+
+{
+"id" : "229",
+"name" : " Sokolsky horse"
+},
+
+{
+"id" : "230",
+"name" : " South German Coldblood"
+},
+
+{
+"id" : "231",
+"name" : " Soviet Heavy Draft"
+},
+
+{
+"id" : "232",
+"name" : " Spanish Jennet Horse"
+},
+
+{
+"id" : "233",
+"name" : " Spanish Mustang"
+},
+
+{
+"id" : "234",
+"name" : " Spanish-Norman horse"
+},
+
+{
+"id" : "235",
+"name" : " Spotted Saddle horse"
+},
+
+{
+"id" : "236",
+"name" : " Standardbred horse"
+},
+
+{
+"id" : "237",
+"name" : " Suffolk Punch"
+},
+
+{
+"id" : "238",
+"name" : " Swedish Ardennes"
+},
+
+{
+"id" : "239",
+"name" : " Swedish Warmblood"
+},
+
+{
+"id" : "240",
+"name" : " Swiss Warmblood"
+},
+
+{
+"id" : "241",
+"name" : " Taishuh"
+},
+
+{
+"id" : "242",
+"name" : " Tawleed"
+},
+
+{
+"id" : "243",
+"name" : " Tennessee Walking Horse"
+},
+
+{
+"id" : "244",
+"name" : " Tersk horse"
+},
+
+{
+"id" : "245",
+"name" : " Thoroughbred"
+},
+
+{
+"id" : "246",
+"name" : " Tiger Horse"
+},
+
+{
+"id" : "247",
+"name" : " Tolfetano"
+},
+
+{
+"id" : "248",
+"name" : " Tori horse"
+},
+
+{
+"id" : "249",
+"name" : " Trait Du Nord"
+},
+
+{
+"id" : "250",
+"name" : " Trakehner"
+},
+
+{
+"id" : "251",
+"name" : " Ukrainian Riding Horse"
+},
+
+{
+"id" : "252",
+"name" : " Unmol Horse"
+},
+
+{
+"id" : "253",
+"name" : " Uzunyayla"
+},
+
+{
+"id" : "254",
+"name" : " Ventasso horse"
+},
+
+{
+"id" : "255",
+"name" : " Virginia highlander"
+},
+
+{
+"id" : "256",
+"name" : " Vlaamperd"
+},
+
+{
+"id" : "257",
+"name" : " Vladimir Heavy Draft"
+},
+
+{
+"id" : "258",
+"name" : " Waler horse"
+},
+
+{
+"id" : "259",
+"name" : " Walkaloosa"
+},
+
+{
+"id" : "260",
+"name" : " Warlander"
+},
+
+{
+"id" : "261",
+"name" : " Westphalian horse"
+},
+
+{
+"id" : "262",
+"name" : " Wielkopolski"
+},
+
+{
+"id" : "263",
+"name" : " Württemberger"
+},
+
+{
+"id" : "264",
+"name" : " Xilingol horse"
+},
+
+{
+"id" : "265",
+"name" : " Yakutian horse"
+},
+
+{
+"id" : "266",
+"name" : " Yili horse"
+},
+
+{
+"id" : "267",
+"name" : " Yonaguni horse"
+},
+
+{
+"id" : "268",
+"name" : " Zweibrücker"
+},
+
+{
+"id" : "269",
+"name" : " Žemaitukas"
+},
+
+{
+"id" : "270",
+"name" : " Quarter"
+},
+
+]
