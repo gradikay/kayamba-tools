@@ -1,0 +1,218 @@
+/**
+Export to JSON plugin for PHPMyAdmin
+@version 0.1
+*/
+// Author: Gradi Kayamba
+// animaldatabase.afrosoricidas
+[
+{
+"id" : "1",
+"name" : " Abyssinian"
+},
+
+{
+"id" : "2",
+"name" : " American Bobtail"
+},
+
+{
+"id" : "3",
+"name" : " American Curl"
+},
+
+{
+"id" : "4",
+"name" : " American Shorthair"
+},
+
+{
+"id" : "5",
+"name" : " American Wirehair"
+},
+
+{
+"id" : "6",
+"name" : " Balinese"
+},
+
+{
+"id" : "7",
+"name" : " Bengal"
+},
+
+{
+"id" : "8",
+"name" : " Birman"
+},
+
+{
+"id" : "9",
+"name" : " Bombay"
+},
+
+{
+"id" : "10",
+"name" : " British Shorthair"
+},
+
+{
+"id" : "11",
+"name" : " Chartreux"
+},
+
+{
+"id" : "12",
+"name" : " Cornish Rex"
+},
+
+{
+"id" : "13",
+"name" : " Cymric"
+},
+
+{
+"id" : "14",
+"name" : " Devon Rex"
+},
+
+{
+"id" : "15",
+"name" : " Egyptian Mau"
+},
+
+{
+"id" : "16",
+"name" : " Exotic Shorthair"
+},
+
+{
+"id" : "17",
+"name" : " Havana Brown"
+},
+
+{
+"id" : "18",
+"name" : " Himalayan"
+},
+
+{
+"id" : "19",
+"name" : " Japanese Bobtail"
+},
+
+{
+"id" : "20",
+"name" : " Javanese"
+},
+
+{
+"id" : "21",
+"name" : " Korat"
+},
+
+{
+"id" : "22",
+"name" : " Maine Coon"
+},
+
+{
+"id" : "23",
+"name" : " Manx"
+},
+
+{
+"id" : "24",
+"name" : " Munchkin"
+},
+
+{
+"id" : "25",
+"name" : " Nebelung"
+},
+
+{
+"id" : "26",
+"name" : " Norwegian Forest Cat"
+},
+
+{
+"id" : "27",
+"name" : " Ocicat"
+},
+
+{
+"id" : "28",
+"name" : " Oriental"
+},
+
+{
+"id" : "29",
+"name" : " Persian"
+},
+
+{
+"id" : "30",
+"name" : " Ragdoll"
+},
+
+{
+"id" : "31",
+"name" : " Russian Blue"
+},
+
+{
+"id" : "32",
+"name" : " Scottish Fold"
+},
+
+{
+"id" : "33",
+"name" : " Selkirk Rex"
+},
+
+{
+"id" : "34",
+"name" : " Siamese"
+},
+
+{
+"id" : "35",
+"name" : " Siberian"
+},
+
+{
+"id" : "36",
+"name" : " Singapura"
+},
+
+{
+"id" : "37",
+"name" : " Snowshoe"
+},
+
+{
+"id" : "38",
+"name" : " Somali"
+},
+
+{
+"id" : "39",
+"name" : " Sphynx"
+},
+
+{
+"id" : "40",
+"name" : " Tonkinese"
+},
+
+{
+"id" : "41",
+"name" : " Turkish Angora"
+},
+
+{
+"id" : "42",
+"name" : " Turkish Van"
+},
+
+]
