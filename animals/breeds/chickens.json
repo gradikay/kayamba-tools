@@ -1,0 +1,1343 @@
+/**
+Export to JSON plugin for PHPMyAdmin
+@version 0.1
+*/
+// Author: Gradi Kayamba
+// animaldatabase.chickens
+[
+{
+"id" : "1",
+"name" : " Ingriido"
+},
+
+{
+"id" : "2",
+"name" : " Khasaki"
+},
+
+{
+"id" : "3",
+"name" : " Kulangi"
+},
+
+{
+"id" : "4",
+"name" : " Pusty"
+},
+
+{
+"id" : "5",
+"name" : " Sabzwari"
+},
+
+{
+"id" : "6",
+"name" : " Commune hen"
+},
+
+{
+"id" : "7",
+"name" : " Black Tropoja Lekbibaj"
+},
+
+{
+"id" : "8",
+"name" : " Tirana"
+},
+
+{
+"id" : "9",
+"name" : " Tropoja Pac"
+},
+
+{
+"id" : "10",
+"name" : " Yerevanian"
+},
+
+{
+"id" : "12",
+"name" : " Australorp"
+},
+
+{
+"id" : "13",
+"name" : " Australian Langshan"
+},
+
+{
+"id" : "14",
+"name" : " Australian Game"
+},
+
+{
+"id" : "15",
+"name" : " Australian Pit Game"
+},
+
+{
+"id" : "16",
+"name" : " Altsteirer"
+},
+
+{
+"id" : "17",
+"name" : " Sulmtaler"
+},
+
+{
+"id" : "18",
+"name" : " Ardennaise"
+},
+
+{
+"id" : "19",
+"name" : " Ardenner Bolstaart"
+},
+
+{
+"id" : "20",
+"name" : " Belgian Bearded d'Anvers"
+},
+
+{
+"id" : "21",
+"name" : " Barbu de Boitsfort"
+},
+
+{
+"id" : "22",
+"name" : " Barbu de Grubbe"
+},
+
+{
+"id" : "23",
+"name" : " Belgian d'Everberg"
+},
+
+{
+"id" : "24",
+"name" : " Barbu de Watermael"
+},
+
+{
+"id" : "25",
+"name" : " Bearded d'Uccle"
+},
+
+{
+"id" : "26",
+"name" : " Bassette Liègeoise"
+},
+
+{
+"id" : "27",
+"name" : " Brabanter"
+},
+
+{
+"id" : "28",
+"name" : " Braekel"
+},
+
+{
+"id" : "29",
+"name" : " Campine"
+},
+
+{
+"id" : "30",
+"name" : " Combattant de Bruges"
+},
+
+{
+"id" : "31",
+"name" : " Combattant de Liège"
+},
+
+{
+"id" : "32",
+"name" : " Combattant de Tirlemont"
+},
+
+{
+"id" : "33",
+"name" : " Coucou d'Izegem"
+},
+
+{
+"id" : "34",
+"name" : " Coucou des Flandres"
+},
+
+{
+"id" : "35",
+"name" : " Famennoise"
+},
+
+{
+"id" : "36",
+"name" : " Fauve de Hesbaye"
+},
+
+{
+"id" : "37",
+"name" : " Fauve de Mehaigne"
+},
+
+{
+"id" : "38",
+"name" : " Herve"
+},
+
+{
+"id" : "39",
+"name" : " Huttegem"
+},
+
+{
+"id" : "40",
+"name" : " Malines"
+},
+
+{
+"id" : "41",
+"name" : " Mechelse kalkoenkop"
+},
+
+{
+"id" : "42",
+"name" : " Naine belge"
+},
+
+{
+"id" : "43",
+"name" : " Naine de Waes"
+},
+
+{
+"id" : "44",
+"name" : " Naine du Tournaisis"
+},
+
+{
+"id" : "45",
+"name" : " Pondeuse de Zingem"
+},
+
+{
+"id" : "46",
+"name" : " Poule d'Aarschot"
+},
+
+{
+"id" : "47",
+"name" : " Poule de la vallée de la Zwalm"
+},
+
+{
+"id" : "48",
+"name" : " Poule de Zottegem"
+},
+
+{
+"id" : "49",
+"name" : " Zingems vleeshoen"
+},
+
+{
+"id" : "50",
+"name" : " Black Shumen"
+},
+
+{
+"id" : "51",
+"name" : " Starozagorska Red"
+},
+
+{
+"id" : "52",
+"name" : " Chantecler"
+},
+
+{
+"id" : "53",
+"name" : " Red Shaver"
+},
+
+{
+"id" : "54",
+"name" : " Araucana"
+},
+
+{
+"id" : "55",
+"name" : " Cochin"
+},
+
+{
+"id" : "56",
+"name" : " Croad Langshan"
+},
+
+{
+"id" : "57",
+"name" : " Nankin"
+},
+
+{
+"id" : "58",
+"name" : " Pekin"
+},
+
+{
+"id" : "59",
+"name" : " Silkie"
+},
+
+{
+"id" : "60",
+"name" : " Hrvatica"
+},
+
+{
+"id" : "61",
+"name" : " Cubalaya"
+},
+
+{
+"id" : "62",
+"name" : " Cypriot chicken"
+},
+
+{
+"id" : "63",
+"name" : " Czech gold brindle chicken"
+},
+
+{
+"id" : "64",
+"name" : " Šumavanka"
+},
+
+{
+"id" : "65",
+"name" : " Alexandria"
+},
+
+{
+"id" : "66",
+"name" : " Arbrikers"
+},
+
+{
+"id" : "67",
+"name" : " Bahig"
+},
+
+{
+"id" : "68",
+"name" : " Bandara"
+},
+
+{
+"id" : "69",
+"name" : " Boffen"
+},
+
+{
+"id" : "70",
+"name" : " Dandarawi"
+},
+
+{
+"id" : "71",
+"name" : " Dokki 4"
+},
+
+{
+"id" : "72",
+"name" : " Baladi Beheri"
+},
+
+{
+"id" : "73",
+"name" : " Fayoumi"
+},
+
+{
+"id" : "74",
+"name" : " Gimmizah"
+},
+
+{
+"id" : "75",
+"name" : " Golden Montazah"
+},
+
+{
+"id" : "76",
+"name" : " Hawara"
+},
+
+{
+"id" : "77",
+"name" : " Inshas"
+},
+
+{
+"id" : "78",
+"name" : " Iven"
+},
+
+{
+"id" : "79",
+"name" : " Kherbis"
+},
+
+{
+"id" : "80",
+"name" : " Mandarah"
+},
+
+{
+"id" : "81",
+"name" : " Matrouh"
+},
+
+{
+"id" : "82",
+"name" : " Salam"
+},
+
+{
+"id" : "83",
+"name" : " Silver Montazah"
+},
+
+{
+"id" : "84",
+"name" : " Sinai"
+},
+
+{
+"id" : "85",
+"name" : " Finnish Landrace chicken"
+},
+
+{
+"id" : "86",
+"name" : " Aquitaine"
+},
+
+{
+"id" : "87",
+"name" : " Ardeale"
+},
+
+{
+"id" : "89",
+"name" : " Barbezieux"
+},
+
+{
+"id" : "90",
+"name" : " Blanzac"
+},
+
+{
+"id" : "91",
+"name" : " Bourbonnaise"
+},
+
+{
+"id" : "92",
+"name" : " Bourbourg"
+},
+
+{
+"id" : "93",
+"name" : " Bresse"
+},
+
+{
+"id" : "94",
+"name" : " Caumont"
+},
+
+{
+"id" : "95",
+"name" : " Caussade"
+},
+
+{
+"id" : "96",
+"name" : " Charollaise"
+},
+
+{
+"id" : "97",
+"name" : " Cocherelle"
+},
+
+{
+"id" : "98",
+"name" : " Combattant du Nord"
+},
+
+{
+"id" : "99",
+"name" : " Contres"
+},
+
+{
+"id" : "100",
+"name" : " Cotentine"
+},
+
+{
+"id" : "102",
+"name" : " Coucou de France"
+},
+
+{
+"id" : "103",
+"name" : " Coucou de Rennes"
+},
+
+{
+"id" : "104",
+"name" : " Coucou Picarde"
+},
+
+{
+"id" : "105",
+"name" : " Coucou Soie"
+},
+
+{
+"id" : "106",
+"name" : " Cou-nu du Forez"
+},
+
+{
+"id" : "107",
+"name" : " Courtes-Pattes"
+},
+
+{
+"id" : "108",
+"name" : " Crèvecœur"
+},
+
+{
+"id" : "109",
+"name" : " Estaires"
+},
+
+{
+"id" : "110",
+"name" : " Faverolles clair"
+},
+
+{
+"id" : "111",
+"name" : " Faverolles foncé"
+},
+
+{
+"id" : "112",
+"name" : " Favoris"
+},
+
+{
+"id" : "113",
+"name" : " Gasconne"
+},
+
+{
+"id" : "114",
+"name" : " Gâtinaise"
+},
+
+{
+"id" : "115",
+"name" : " Gauloise dorée"
+},
+
+{
+"id" : "116",
+"name" : " Géline de Touraine"
+},
+
+{
+"id" : "117",
+"name" : " Gournay"
+},
+
+{
+"id" : "118",
+"name" : " Hergnies"
+},
+
+{
+"id" : "119",
+"name" : " Houdan"
+},
+
+{
+"id" : "120",
+"name" : " Ivanaise"
+},
+
+{
+"id" : "121",
+"name" : " Janzé"
+},
+
+{
+"id" : "122",
+"name" : " Javanaise"
+},
+
+{
+"id" : "123",
+"name" : " La Flèche"
+},
+
+{
+"id" : "124",
+"name" : " Landaise"
+},
+
+{
+"id" : "125",
+"name" : " Le Mans"
+},
+
+{
+"id" : "126",
+"name" : " Le Merlerault"
+},
+
+{
+"id" : "127",
+"name" : " Meusienne"
+},
+
+{
+"id" : "128",
+"name" : " Limousine"
+},
+
+{
+"id" : "129",
+"name" : " Lyonnaise"
+},
+
+{
+"id" : "130",
+"name" : " Mantes"
+},
+
+{
+"id" : "131",
+"name" : " Marans"
+},
+
+{
+"id" : "132",
+"name" : " Noire du Berry"
+},
+
+{
+"id" : "133",
+"name" : " Noire de Challans"
+},
+
+{
+"id" : "134",
+"name" : " Pavilly"
+},
+
+{
+"id" : "135",
+"name" : " Poule d'Alsace"
+},
+
+{
+"id" : "136",
+"name" : " Poule de Caux"
+},
+
+{
+"id" : "137",
+"name" : " Poule de Marquise"
+},
+
+{
+"id" : "138",
+"name" : " Poule de Saint-Omer"
+},
+
+{
+"id" : "139",
+"name" : " Poule des Courrières"
+},
+
+{
+"id" : "140",
+"name" : " Poule des haies"
+},
+
+{
+"id" : "141",
+"name" : " Provençale"
+},
+
+{
+"id" : "142",
+"name" : " Annaberger Haubenstrupphühner"
+},
+
+{
+"id" : "143",
+"name" : " Augsburger"
+},
+
+{
+"id" : "144",
+"name" : " Bergischer Long Crower"
+},
+
+{
+"id" : "145",
+"name" : " Bergische Schlotterkämme"
+},
+
+{
+"id" : "146",
+"name" : " Bielefelder Kennhühner"
+},
+
+{
+"id" : "147",
+"name" : " Kraienköppe"
+},
+
+{
+"id" : "148",
+"name" : " Krüper"
+},
+
+{
+"id" : "149",
+"name" : " Lakenvelder"
+},
+
+{
+"id" : "150",
+"name" : " Naked-neck"
+},
+
+{
+"id" : "151",
+"name" : " East Frisian Gull"
+},
+
+{
+"id" : "152",
+"name" : " Phoenix"
+},
+
+{
+"id" : "153",
+"name" : " Vorwerk"
+},
+
+{
+"id" : "154",
+"name" : " Westphalian chicken"
+},
+
+{
+"id" : "155",
+"name" : " Icelandic chicken"
+},
+
+{
+"id" : "156",
+"name" : " Aseel"
+},
+
+{
+"id" : "157",
+"name" : " Kadaknath"
+},
+
+{
+"id" : "158",
+"name" : " Gramapriya"
+},
+
+{
+"id" : "159",
+"name" : " Ayam Cemani"
+},
+
+{
+"id" : "160",
+"name" : " Bekisar"
+},
+
+{
+"id" : "161",
+"name" : " Sumatra chicken"
+},
+
+{
+"id" : "162",
+"name" : " Manx Rumpy"
+},
+
+{
+"id" : "163",
+"name" : " Orloff"
+},
+
+{
+"id" : "164",
+"name" : " Kedu"
+},
+
+{
+"id" : "165",
+"name" : " Pelung"
+},
+
+{
+"id" : "166",
+"name" : " Ancona"
+},
+
+{
+"id" : "167",
+"name" : " Bianca di Saluzzo"
+},
+
+{
+"id" : "168",
+"name" : " Bionda Piemontese"
+},
+
+{
+"id" : "169",
+"name" : " Ermellinata di Rovigo"
+},
+
+{
+"id" : "170",
+"name" : " Livorno"
+},
+
+{
+"id" : "171",
+"name" : " Mericanel della Brianza"
+},
+
+{
+"id" : "172",
+"name" : " Mugellese"
+},
+
+{
+"id" : "173",
+"name" : " Padovana"
+},
+
+{
+"id" : "174",
+"name" : " Pepoi"
+},
+
+{
+"id" : "175",
+"name" : " Polverara"
+},
+
+{
+"id" : "176",
+"name" : " Robusta Lionata"
+},
+
+{
+"id" : "177",
+"name" : " Robusta Maculata"
+},
+
+{
+"id" : "178",
+"name" : " Romagnola"
+},
+
+{
+"id" : "179",
+"name" : " Siciliana"
+},
+
+{
+"id" : "180",
+"name" : " Sicilian Buttercup"
+},
+
+{
+"id" : "181",
+"name" : " Valdarno"
+},
+
+{
+"id" : "182",
+"name" : " Valdarnese"
+},
+
+{
+"id" : "183",
+"name" : " Japanese Bantam"
+},
+
+{
+"id" : "184",
+"name" : " Shamo"
+},
+
+{
+"id" : "185",
+"name" : " Tomaru"
+},
+
+{
+"id" : "186",
+"name" : " Onagadori"
+},
+
+{
+"id" : "187",
+"name" : " Jangmigye"
+},
+
+{
+"id" : "188",
+"name" : " Kosova Long-crowing"
+},
+
+{
+"id" : "189",
+"name" : " Malay"
+},
+
+{
+"id" : "190",
+"name" : " Serama"
+},
+
+{
+"id" : "191",
+"name" : " Saipan Jungle Fowl"
+},
+
+{
+"id" : "192",
+"name" : " Burmese"
+},
+
+{
+"id" : "193",
+"name" : " Barnevelder"
+},
+
+{
+"id" : "195",
+"name" : " Friesian"
+},
+
+{
+"id" : "197",
+"name" : " Booted Bantam"
+},
+
+{
+"id" : "198",
+"name" : " Welsummer"
+},
+
+{
+"id" : "199",
+"name" : " Norwegian Jærhøne"
+},
+
+{
+"id" : "200",
+"name" : " Asil"
+},
+
+{
+"id" : "201",
+"name" : " Banaba"
+},
+
+{
+"id" : "202",
+"name" : " Bolinao"
+},
+
+{
+"id" : "203",
+"name" : " Camarines"
+},
+
+{
+"id" : "204",
+"name" : " Darag"
+},
+
+{
+"id" : "205",
+"name" : " Paraoakan"
+},
+
+{
+"id" : "206",
+"name" : " Polbar"
+},
+
+{
+"id" : "207",
+"name" : " Zielononó?ka Kuropatwiana"
+},
+
+{
+"id" : "208",
+"name" : " Amarela"
+},
+
+{
+"id" : "209",
+"name" : " Preta Lusitânica"
+},
+
+{
+"id" : "210",
+"name" : " Pedrês Portuguesa"
+},
+
+{
+"id" : "211",
+"name" : " Raça Branca"
+},
+
+{
+"id" : "212",
+"name" : " Transylvanian Naked-neck"
+},
+
+{
+"id" : "213",
+"name" : " Yurlov Crower"
+},
+
+{
+"id" : "214",
+"name" : " Russian Orloff"
+},
+
+{
+"id" : "215",
+"name" : " Banat Naked-neck"
+},
+
+{
+"id" : "216",
+"name" : " Sombor Crested chicken"
+},
+
+{
+"id" : "217",
+"name" : " Oravka"
+},
+
+{
+"id" : "218",
+"name" : " Ovambo"
+},
+
+{
+"id" : "219",
+"name" : " Potchefstroom Koekoek"
+},
+
+{
+"id" : "220",
+"name" : " Venda"
+},
+
+{
+"id" : "221",
+"name" : " Andalusian"
+},
+
+{
+"id" : "222",
+"name" : " Catalana"
+},
+
+{
+"id" : "223",
+"name" : " Minorca"
+},
+
+{
+"id" : "224",
+"name" : " Penedesenca"
+},
+
+{
+"id" : "225",
+"name" : " Pita Pinta Asturiana"
+},
+
+{
+"id" : "226",
+"name" : " White-Faced Black Spanish"
+},
+
+{
+"id" : "227",
+"name" : " Appenzeller"
+},
+
+{
+"id" : "228",
+"name" : " Schweizerhuhn"
+},
+
+{
+"id" : "229",
+"name" : " Pradu Hang Dam Chiangmai"
+},
+
+{
+"id" : "230",
+"name" : " Denizli"
+},
+
+{
+"id" : "231",
+"name" : " Sultan"
+},
+
+{
+"id" : "232",
+"name" : " Poltava"
+},
+
+{
+"id" : "233",
+"name" : " Burford Brown"
+},
+
+{
+"id" : "234",
+"name" : " Cornish"
+},
+
+{
+"id" : "235",
+"name" : " Derbyshire Redcap"
+},
+
+{
+"id" : "236",
+"name" : " Dorking"
+},
+
+{
+"id" : "237",
+"name" : " Ixworth"
+},
+
+{
+"id" : "238",
+"name" : " Marsh Daisy"
+},
+
+{
+"id" : "239",
+"name" : " Modern Game"
+},
+
+{
+"id" : "240",
+"name" : " Modern Langshan"
+},
+
+{
+"id" : "241",
+"name" : " Muffed Old English Game"
+},
+
+{
+"id" : "242",
+"name" : " Norfolk Grey"
+},
+
+{
+"id" : "243",
+"name" : " Old English Game"
+},
+
+{
+"id" : "244",
+"name" : " Old English Pheasant Fowl"
+},
+
+{
+"id" : "245",
+"name" : " Orpington"
+},
+
+{
+"id" : "246",
+"name" : " Rosecomb"
+},
+
+{
+"id" : "247",
+"name" : " Scots Dumpy"
+},
+
+{
+"id" : "248",
+"name" : " Scots Grey"
+},
+
+{
+"id" : "249",
+"name" : " Sebright"
+},
+
+{
+"id" : "250",
+"name" : " Sussex"
+},
+
+{
+"id" : "251",
+"name" : " Ameraucana"
+},
+
+{
+"id" : "252",
+"name" : " American Game"
+},
+
+{
+"id" : "253",
+"name" : " Buckeye"
+},
+
+{
+"id" : "254",
+"name" : " Blue Hen of Delaware"
+},
+
+{
+"id" : "255",
+"name" : " California Gray"
+},
+
+{
+"id" : "256",
+"name" : " Delaware"
+},
+
+{
+"id" : "257",
+"name" : " Dominique"
+},
+
+{
+"id" : "258",
+"name" : " Holland"
+},
+
+{
+"id" : "259",
+"name" : " Iowa Blue"
+},
+
+{
+"id" : "260",
+"name" : " Java"
+},
+
+{
+"id" : "261",
+"name" : " Jersey Giant"
+},
+
+{
+"id" : "262",
+"name" : " Lamona"
+},
+
+{
+"id" : "263",
+"name" : " New Hampshire"
+},
+
+{
+"id" : "264",
+"name" : " Plymouth Rock"
+},
+
+{
+"id" : "265",
+"name" : " Pyncheon"
+},
+
+{
+"id" : "266",
+"name" : " Rhode Island Red"
+},
+
+{
+"id" : "267",
+"name" : " Rhode Island White"
+},
+
+{
+"id" : "268",
+"name" : " Winnebago"
+},
+
+{
+"id" : "269",
+"name" : " Wyandotte"
+},
+
+{
+"id" : "270",
+"name" : " Leghorn chicken"
+},
+
+{
+"id" : "271",
+"name" : " Murica"
+},
+
+{
+"id" : "272",
+"name" : " Ga Noi"
+},
+
+]
