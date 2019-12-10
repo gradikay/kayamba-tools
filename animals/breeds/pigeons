@@ -1,0 +1,698 @@
+/**
+Export to JSON plugin for PHPMyAdmin
+@version 0.1
+*/
+// Author: Gradi Kayamba
+// animaldatabase.afrosoricidas
+[
+{
+"id" : "1",
+"name" : " Aachen Lacquer Shield Owl"
+},
+
+{
+"id" : "2",
+"name" : " African Owl"
+},
+
+{
+"id" : "3",
+"name" : " Altenburg Trumpeter"
+},
+
+{
+"id" : "4",
+"name" : " American Giant Runt"
+},
+
+{
+"id" : "5",
+"name" : " American Show Racer"
+},
+
+{
+"id" : "6",
+"name" : " Anatolian Ringbeater"
+},
+
+{
+"id" : "7",
+"name" : " Ancient Tumbler"
+},
+
+{
+"id" : "8",
+"name" : " Antwerp Smerle"
+},
+
+{
+"id" : "9",
+"name" : " Arabian Trumpeter"
+},
+
+{
+"id" : "10",
+"name" : " Archangel"
+},
+
+{
+"id" : "11",
+"name" : " Armenian Tumbler"
+},
+
+{
+"id" : "12",
+"name" : " Australian Performing Tumbler"
+},
+
+{
+"id" : "13",
+"name" : " Australian Saddleback Tumbler"
+},
+
+{
+"id" : "14",
+"name" : " Barb (pigeon)"
+},
+
+{
+"id" : "15",
+"name" : " Belgian Ringbeater"
+},
+
+{
+"id" : "16",
+"name" : " Berlin Long-Faced Tumbler"
+},
+
+{
+"id" : "17",
+"name" : " Berlin Short-Faced Tumbler"
+},
+
+{
+"id" : "18",
+"name" : " Bijeljina Roller"
+},
+
+{
+"id" : "19",
+"name" : " Birmingham Roller"
+},
+
+{
+"id" : "20",
+"name" : " Bohemian Fairy Swallow"
+},
+
+{
+"id" : "21",
+"name" : " Bokhara Trumpeter"
+},
+
+{
+"id" : "22",
+"name" : " Breslau Tumbler"
+},
+
+{
+"id" : "23",
+"name" : " British Show Racer"
+},
+
+{
+"id" : "24",
+"name" : " Brunner Pouter"
+},
+
+{
+"id" : "25",
+"name" : " Budapest Highflier"
+},
+
+{
+"id" : "26",
+"name" : " Bursa Tumbler"
+},
+
+{
+"id" : "27",
+"name" : " Carneau"
+},
+
+{
+"id" : "28",
+"name" : " Carrier"
+},
+
+{
+"id" : "29",
+"name" : " Cauchois"
+},
+
+{
+"id" : "30",
+"name" : " Chinese Flying Pigeon"
+},
+
+{
+"id" : "31",
+"name" : " Chinese Owl"
+},
+
+{
+"id" : "32",
+"name" : " Chistopolian High-flying Pigeon"
+},
+
+{
+"id" : "33",
+"name" : " Coburg Lark"
+},
+
+{
+"id" : "34",
+"name" : " Cologne Tumbler"
+},
+
+{
+"id" : "35",
+"name" : " Crested Soultz"
+},
+
+{
+"id" : "36",
+"name" : " Cumulet"
+},
+
+{
+"id" : "37",
+"name" : " Damascene"
+},
+
+{
+"id" : "38",
+"name" : " Danish Suabian"
+},
+
+{
+"id" : "39",
+"name" : " Danish Tumbler"
+},
+
+{
+"id" : "40",
+"name" : " Danzig Highflyer"
+},
+
+{
+"id" : "41",
+"name" : " Debrecin Roller"
+},
+
+{
+"id" : "42",
+"name" : " Domestic Show Flight"
+},
+
+{
+"id" : "43",
+"name" : " Domino Frill"
+},
+
+{
+"id" : "44",
+"name" : " Donek"
+},
+
+{
+"id" : "45",
+"name" : " Dragoon"
+},
+
+{
+"id" : "46",
+"name" : " Dresden Trumpeter"
+},
+
+{
+"id" : "47",
+"name" : " Dutch Beauty Homer"
+},
+
+{
+"id" : "48",
+"name" : " Egyptian Swift"
+},
+
+{
+"id" : "49",
+"name" : " Elster Purzler"
+},
+
+{
+"id" : "50",
+"name" : " English Barb"
+},
+
+{
+"id" : "51",
+"name" : " English Carrier"
+},
+
+{
+"id" : "52",
+"name" : " English Fantail"
+},
+
+{
+"id" : "53",
+"name" : " English Long-Faced Tumbler"
+},
+
+{
+"id" : "54",
+"name" : " English Magpie"
+},
+
+{
+"id" : "55",
+"name" : " English Nun"
+},
+
+{
+"id" : "56",
+"name" : " English PouterEnglish Short-Faced Tumble"
+},
+
+{
+"id" : "57",
+"name" : " English Short-Faced Tumbler"
+},
+
+{
+"id" : "58",
+"name" : " English Trumpeter"
+},
+
+{
+"id" : "59",
+"name" : " Fantail"
+},
+
+{
+"id" : "60",
+"name" : " Felégyhaza Tumbler"
+},
+
+{
+"id" : "61",
+"name" : " Flying Tippler"
+},
+
+{
+"id" : "62",
+"name" : " French Mondain"
+},
+
+{
+"id" : "63",
+"name" : " Frillback"
+},
+
+{
+"id" : "64",
+"name" : " Gaditano Pouter"
+},
+
+{
+"id" : "65",
+"name" : " Galatz Roller"
+},
+
+{
+"id" : "66",
+"name" : " Georgian black tailed"
+},
+
+{
+"id" : "67",
+"name" : " Georgian sizaghrani"
+},
+
+{
+"id" : "68",
+"name" : " Georgian white tailed"
+},
+
+{
+"id" : "69",
+"name" : " German Beauty Homer"
+},
+
+{
+"id" : "70",
+"name" : " German Modena"
+},
+
+{
+"id" : "71",
+"name" : " German Nun"
+},
+
+{
+"id" : "72",
+"name" : " Ghent Cropper"
+},
+
+{
+"id" : "73",
+"name" : " Granadino Pouter"
+},
+
+{
+"id" : "74",
+"name" : " Helmet Pigeons"
+},
+
+{
+"id" : "75",
+"name" : " Holle Cropper"
+},
+
+{
+"id" : "76",
+"name" : " Homing Pigeon"
+},
+
+{
+"id" : "77",
+"name" : " Homing Pigeon"
+},
+
+{
+"id" : "78",
+"name" : " Indian Fantail"
+},
+
+{
+"id" : "79",
+"name" : " Indian Gola"
+},
+
+{
+"id" : "80",
+"name" : " Iranian Highflier"
+},
+
+{
+"id" : "81",
+"name" : " Italian Owl"
+},
+
+{
+"id" : "82",
+"name" : " Jacobin"
+},
+
+{
+"id" : "83",
+"name" : " Kiev Tumbler"
+},
+
+{
+"id" : "84",
+"name" : " King"
+},
+
+{
+"id" : "85",
+"name" : " Komorn Tumbler"
+},
+
+{
+"id" : "86",
+"name" : " Lahore"
+},
+
+{
+"id" : "87",
+"name" : " Lucerne Gold Collar"
+},
+
+{
+"id" : "88",
+"name" : " Magpie"
+},
+
+{
+"id" : "89",
+"name" : " Modena"
+},
+
+{
+"id" : "90",
+"name" : " Muffed Helmet"
+},
+
+{
+"id" : "91",
+"name" : " Norwich Cropper"
+},
+
+{
+"id" : "92",
+"name" : " Nun"
+},
+
+{
+"id" : "93",
+"name" : " Nis's white-tail highflyer"
+},
+
+{
+"id" : "94",
+"name" : " Old Dutch Capuchine"
+},
+
+{
+"id" : "95",
+"name" : " Old Dutch Tumbler"
+},
+
+{
+"id" : "96",
+"name" : " Old Fashioned Oriental Frill"
+},
+
+{
+"id" : "97",
+"name" : " Old German Cropper"
+},
+
+{
+"id" : "98",
+"name" : " Old German Owl"
+},
+
+{
+"id" : "99",
+"name" : " Old Oriental Owl"
+},
+
+{
+"id" : "100",
+"name" : " Oriental Frill"
+},
+
+{
+"id" : "101",
+"name" : " Oriental Roller"
+},
+
+{
+"id" : "102",
+"name" : " Pakistani Highflyer"
+},
+
+{
+"id" : "103",
+"name" : " Parlor Roller"
+},
+
+{
+"id" : "104",
+"name" : " Pigmy Pouter"
+},
+
+{
+"id" : "105",
+"name" : " Polish Helmet"
+},
+
+{
+"id" : "106",
+"name" : " Polish Krymka Tumbler"
+},
+
+{
+"id" : "107",
+"name" : " Polish Orlik"
+},
+
+{
+"id" : "108",
+"name" : " Quet Roller"
+},
+
+{
+"id" : "109",
+"name" : " Racing Homer"
+},
+
+{
+"id" : "110",
+"name" : " Reversewing Pouter"
+},
+
+{
+"id" : "111",
+"name" : " Roller Pigeons"
+},
+
+{
+"id" : "112",
+"name" : " Roshan Chirag"
+},
+
+{
+"id" : "113",
+"name" : " Saxon Fairy Swallow"
+},
+
+{
+"id" : "114",
+"name" : " Saxon Field Pigeon"
+},
+
+{
+"id" : "115",
+"name" : " Saxon Monk"
+},
+
+{
+"id" : "116",
+"name" : " Saxon Shield"
+},
+
+{
+"id" : "117",
+"name" : " Saxon Spot"
+},
+
+{
+"id" : "118",
+"name" : " Scandaroon"
+},
+
+{
+"id" : "119",
+"name" : " Schmalkalden Moorhead"
+},
+
+{
+"id" : "120",
+"name" : " Serbian Highflyer"
+},
+
+{
+"id" : "121",
+"name" : " Shiraz Tumbler"
+},
+
+{
+"id" : "122",
+"name" : " Silky Fantail"
+},
+
+{
+"id" : "123",
+"name" : " South German Monk"
+},
+
+{
+"id" : "124",
+"name" : " South German Shield"
+},
+
+{
+"id" : "125",
+"name" : " Stargard Shaker"
+},
+
+{
+"id" : "126",
+"name" : " Starling"
+},
+
+{
+"id" : "127",
+"name" : " Stralsund Highflyer"
+},
+
+{
+"id" : "128",
+"name" : " Strasser"
+},
+
+{
+"id" : "129",
+"name" : " Sverdlovsk blue-gray mottle-headed pigeo"
+},
+
+{
+"id" : "130",
+"name" : " Szegedin Highflyer"
+},
+
+{
+"id" : "131",
+"name" : " Thuringian Colour Pigeons"
+},
+
+{
+"id" : "132",
+"name" : " Turbit"
+},
+
+{
+"id" : "133",
+"name" : " Ural striped maned pigeon"
+},
+
+{
+"id" : "134",
+"name" : " Valencian Figurita"
+},
+
+{
+"id" : "135",
+"name" : " Vienna Highflyer"
+},
+
+{
+"id" : "136",
+"name" : " Voorburg Shield Cropper"
+},
+
+{
+"id" : "137",
+"name" : " West of England Tumbler"
+},
+
+{
+"id" : "138",
+"name" : " Zitterhall"
+},
+
+]
