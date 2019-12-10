@@ -1,0 +1,128 @@
+/**
+Export to JSON plugin for PHPMyAdmin
+@version 0.1
+*/
+// Author: Gradi Kayamba
+// animaldatabase.foxes
+[
+{
+"id" : "1",
+"name" : " Ethiopian wolf"
+},
+
+{
+"id" : "2",
+"name" : " Crab-eating fox"
+},
+
+{
+"id" : "3",
+"name" : " Culpeo"
+},
+
+{
+"id" : "4",
+"name" : " Darwin's fox"
+},
+
+{
+"id" : "5",
+"name" : " South American gray fox"
+},
+
+{
+"id" : "6",
+"name" : " Pampas fox"
+},
+
+{
+"id" : "7",
+"name" : " Sechuran fox"
+},
+
+{
+"id" : "8",
+"name" : " Hoary fox"
+},
+
+{
+"id" : "9",
+"name" : " Bat-eared fox"
+},
+
+{
+"id" : "10",
+"name" : " Gray fox"
+},
+
+{
+"id" : "11",
+"name" : " Island fox"
+},
+
+{
+"id" : "12",
+"name" : " Cozumel fox"
+},
+
+{
+"id" : "13",
+"name" : " Arctic fox"
+},
+
+{
+"id" : "14",
+"name" : " Bengal fox"
+},
+
+{
+"id" : "15",
+"name" : " Blanford's fox"
+},
+
+{
+"id" : "16",
+"name" : " Cape fox"
+},
+
+{
+"id" : "17",
+"name" : " Corsac fox"
+},
+
+{
+"id" : "18",
+"name" : " Fennec fox"
+},
+
+{
+"id" : "19",
+"name" : " Kit fox"
+},
+
+{
+"id" : "20",
+"name" : " Pale fox"
+},
+
+{
+"id" : "21",
+"name" : " Rüppell's fox"
+},
+
+{
+"id" : "22",
+"name" : " Red fox"
+},
+
+{
+"id" : "23",
+"name" : " Swift fox"
+},
+
+{
+"id" : "24",
+"name" : " Tibetan sand fox"
+},
+
+]
