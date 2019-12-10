@@ -1,0 +1,173 @@
+/**
+Export to JSON plugin for PHPMyAdmin
+@version 0.1
+*/
+// Author: Gradi Kayamba
+// animaldatabase.donkeys
+[
+{
+"id" : "1",
+"name" : " American Mammoth Jack"
+},
+
+{
+"id" : "2",
+"name" : " Provence donkey"
+},
+
+{
+"id" : "3",
+"name" : " Pyrenean donkey"
+},
+
+{
+"id" : "4",
+"name" : " Bourbonnais Donkey"
+},
+
+{
+"id" : "5",
+"name" : " Cotentin Donkey"
+},
+
+{
+"id" : "6",
+"name" : " Norman donkey"
+},
+
+{
+"id" : "7",
+"name" : " Asinara donkey"
+},
+
+{
+"id" : "8",
+"name" : " Amiatina"
+},
+
+{
+"id" : "9",
+"name" : " Castel Morrone donkey"
+},
+
+{
+"id" : "10",
+"name" : " Martina Franca donkey"
+},
+
+{
+"id" : "11",
+"name" : " Grigio Siciliano"
+},
+
+{
+"id" : "12",
+"name" : " Pantesco"
+},
+
+{
+"id" : "13",
+"name" : " Ragusano donkey"
+},
+
+{
+"id" : "14",
+"name" : " Romagnolo donkey"
+},
+
+{
+"id" : "15",
+"name" : " Sardinian donkey"
+},
+
+{
+"id" : "16",
+"name" : " Andalusian donkey"
+},
+
+{
+"id" : "17",
+"name" : " Baudet de Poitou"
+},
+
+{
+"id" : "18",
+"name" : " Burro"
+},
+
+{
+"id" : "19",
+"name" : " Miranda donkey"
+},
+
+{
+"id" : "20",
+"name" : " Catalan donkey"
+},
+
+{
+"id" : "21",
+"name" : " Cyprus donkey"
+},
+
+{
+"id" : "22",
+"name" : " Balkan donkey"
+},
+
+{
+"id" : "23",
+"name" : " Berry Black"
+},
+
+{
+"id" : "24",
+"name" : " Viterbese"
+},
+
+{
+"id" : "25",
+"name" : " Kiang"
+},
+
+{
+"id" : "26",
+"name" : " Kulan"
+},
+
+{
+"id" : "28",
+"name" : " Miniature"
+},
+
+{
+"id" : "29",
+"name" : " Nubian wild ass"
+},
+
+{
+"id" : "30",
+"name" : " Ponui donkey"
+},
+
+{
+"id" : "31",
+"name" : " Somali Wild Ass"
+},
+
+{
+"id" : "32",
+"name" : " Spotted"
+},
+
+{
+"id" : "33",
+"name" : " Standard"
+},
+
+{
+"id" : "34",
+"name" : " Poitou donkey"
+},
+
+]
