@@ -1,0 +1,113 @@
+/**
+Export to JSON plugin for PHPMyAdmin
+@version 0.1
+*/
+// Author: Gradi Kayamba
+// animaldatabase.cavys
+[
+{
+"id" : "1",
+"name" : " abyssinian"
+},
+
+{
+"id" : "2",
+"name" : " abyssinian satin"
+},
+
+{
+"id" : "3",
+"name" : " american"
+},
+
+{
+"id" : "4",
+"name" : " american satin"
+},
+
+{
+"id" : "5",
+"name" : " coronet"
+},
+
+{
+"id" : "6",
+"name" : " peruvian"
+},
+
+{
+"id" : "7",
+"name" : " peruvian satin"
+},
+
+{
+"id" : "8",
+"name" : " silkie"
+},
+
+{
+"id" : "9",
+"name" : " silkie satin"
+},
+
+{
+"id" : "10",
+"name" : " teddy"
+},
+
+{
+"id" : "11",
+"name" : " teddy satin"
+},
+
+{
+"id" : "12",
+"name" : " texel"
+},
+
+{
+"id" : "13",
+"name" : " white crested"
+},
+
+{
+"id" : "14",
+"name" : " Ridgeback"
+},
+
+{
+"id" : "15",
+"name" : " Alpaca"
+},
+
+{
+"id" : "16",
+"name" : " Merino"
+},
+
+{
+"id" : "17",
+"name" : " Lunkarya"
+},
+
+{
+"id" : "18",
+"name" : " Sheba"
+},
+
+{
+"id" : "19",
+"name" : " Rex"
+},
+
+{
+"id" : "20",
+"name" : " Skinny"
+},
+
+{
+"id" : "21",
+"name" : " Baldwin"
+},
+
+]
