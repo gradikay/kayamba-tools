@@ -1,0 +1,353 @@
+/**
+Export to JSON plugin for PHPMyAdmin
+@version 0.1
+*/
+// Author: Gradi Kayamba
+// animaldatabase.ducks
+[
+{
+"id" : "1",
+"name" : " Abacot Ranger"
+},
+
+{
+"id" : "2",
+"name" : " Alabio Duck"
+},
+
+{
+"id" : "3",
+"name" : " Allier Duck"
+},
+
+{
+"id" : "4",
+"name" : " American Pekin Duck"
+},
+
+{
+"id" : "5",
+"name" : " Ancona duck"
+},
+
+{
+"id" : "6",
+"name" : " Appleyard"
+},
+
+{
+"id" : "7",
+"name" : " Australian Spotted"
+},
+
+{
+"id" : "8",
+"name" : " Aylesbury Duck"
+},
+
+{
+"id" : "9",
+"name" : " Australian Call"
+},
+
+{
+"id" : "10",
+"name" : " Bali duck"
+},
+
+{
+"id" : "11",
+"name" : " Bau Duck"
+},
+
+{
+"id" : "12",
+"name" : " Black East Indian Duck"
+},
+
+{
+"id" : "13",
+"name" : " Blekinge duck"
+},
+
+{
+"id" : "14",
+"name" : " Blue Swedish"
+},
+
+{
+"id" : "15",
+"name" : " Bourbon Duck"
+},
+
+{
+"id" : "16",
+"name" : " Buff Duck"
+},
+
+{
+"id" : "17",
+"name" : " Call Duck"
+},
+
+{
+"id" : "18",
+"name" : " Campbell Duck"
+},
+
+{
+"id" : "19",
+"name" : " Cayuga Duck"
+},
+
+{
+"id" : "20",
+"name" : " Challans Duck"
+},
+
+{
+"id" : "21",
+"name" : " Crested Duck"
+},
+
+{
+"id" : "22",
+"name" : " Danish Duck"
+},
+
+{
+"id" : "23",
+"name" : " Dendermond Duck"
+},
+
+{
+"id" : "24",
+"name" : " Duclair Duck"
+},
+
+{
+"id" : "25",
+"name" : " Dutch Hookbill duck"
+},
+
+{
+"id" : "26",
+"name" : " East Indie Duck"
+},
+
+{
+"id" : "27",
+"name" : " Estaires Duck"
+},
+
+{
+"id" : "28",
+"name" : " Elizabeth duck"
+},
+
+{
+"id" : "29",
+"name" : " Faroese Duck"
+},
+
+{
+"id" : "30",
+"name" : " Forest Duck"
+},
+
+{
+"id" : "31",
+"name" : " German Pekin Duck"
+},
+
+{
+"id" : "32",
+"name" : " Gimbsheimer Duck"
+},
+
+{
+"id" : "33",
+"name" : " Golden Cascade"
+},
+
+{
+"id" : "34",
+"name" : " Gressingham Duck"
+},
+
+{
+"id" : "35",
+"name" : " Havanna Duck"
+},
+
+{
+"id" : "36",
+"name" : " Hook Bill"
+},
+
+{
+"id" : "37",
+"name" : " Hungarian Duck"
+},
+
+{
+"id" : "38",
+"name" : " Huttengem Duck"
+},
+
+{
+"id" : "39",
+"name" : " Indian Runner Duck"
+},
+
+{
+"id" : "40",
+"name" : " Khaki Campbell"
+},
+
+{
+"id" : "41",
+"name" : " Magpie Duck"
+},
+
+{
+"id" : "42",
+"name" : " Mallard"
+},
+
+{
+"id" : "43",
+"name" : " Mulard"
+},
+
+{
+"id" : "44",
+"name" : " Muscovy Duck"
+},
+
+{
+"id" : "45",
+"name" : " Orpington Duck"
+},
+
+{
+"id" : "46",
+"name" : " Overberg Duck"
+},
+
+{
+"id" : "47",
+"name" : " Pekin Duck"
+},
+
+{
+"id" : "49",
+"name" : " Pomeranian duck"
+},
+
+{
+"id" : "50",
+"name" : " Rouen Duck"
+},
+
+{
+"id" : "51",
+"name" : " Rouen Clair"
+},
+
+{
+"id" : "52",
+"name" : " Runner"
+},
+
+{
+"id" : "53",
+"name" : " Saxony Duck"
+},
+
+{
+"id" : "54",
+"name" : " Semois duck"
+},
+
+{
+"id" : "55",
+"name" : " Shetland duck"
+},
+
+{
+"id" : "56",
+"name" : " Silver Appleyard Duck"
+},
+
+{
+"id" : "57",
+"name" : " Silver Appleyard Miniature"
+},
+
+{
+"id" : "58",
+"name" : " Silver Bantam"
+},
+
+{
+"id" : "59",
+"name" : " Swedish Blue duck"
+},
+
+{
+"id" : "60",
+"name" : " Swedish Yellow Duck"
+},
+
+{
+"id" : "61",
+"name" : " Termonde Duck"
+},
+
+{
+"id" : "62",
+"name" : " Tsaiya Duck"
+},
+
+{
+"id" : "63",
+"name" : " Ukrainian Clay Duck"
+},
+
+{
+"id" : "64",
+"name" : " Ukrainian Grey Duck"
+},
+
+{
+"id" : "65",
+"name" : " Ukrainian White Ducks"
+},
+
+{
+"id" : "66",
+"name" : " Venetian Duck"
+},
+
+{
+"id" : "67",
+"name" : " Vouille Duck"
+},
+
+{
+"id" : "68",
+"name" : " Welsh Harlequin Duck"
+},
+
+{
+"id" : "69",
+"name" : " Watervale Duck"
+},
+
+{
+"id" : "70",
+"name" : " White-breasted black duck"
+},
+
+]
