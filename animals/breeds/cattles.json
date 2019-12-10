@@ -1,0 +1,1338 @@
+/**
+Export to JSON plugin for PHPMyAdmin
+@version 0.1
+*/
+// Author: Gradi Kayamba
+// animaldatabase.cattles
+[
+{
+"id" : "1",
+"name" : " Abigar"
+},
+
+{
+"id" : "2",
+"name" : " Abondance"
+},
+
+{
+"id" : "3",
+"name" : " Abyssinian Shorthorned Zebu"
+},
+
+{
+"id" : "4",
+"name" : " Aceh"
+},
+
+{
+"id" : "5",
+"name" : " Achham"
+},
+
+{
+"id" : "6",
+"name" : " Adamawa"
+},
+
+{
+"id" : "7",
+"name" : " Adaptaur"
+},
+
+{
+"id" : "8",
+"name" : " Africangus"
+},
+
+{
+"id" : "9",
+"name" : " Afrikaner"
+},
+
+{
+"id" : "10",
+"name" : " Agerolese"
+},
+
+{
+"id" : "11",
+"name" : " Akaushi"
+},
+
+{
+"id" : "12",
+"name" : " Ala Tau"
+},
+
+{
+"id" : "13",
+"name" : " Alambadi"
+},
+
+{
+"id" : "14",
+"name" : " Albanian"
+},
+
+{
+"id" : "15",
+"name" : " Alderney"
+},
+
+{
+"id" : "16",
+"name" : " Alentejana Cattle"
+},
+
+{
+"id" : "17",
+"name" : " Aleutian wild cattle"
+},
+
+{
+"id" : "18",
+"name" : " Allmogekor"
+},
+
+{
+"id" : "19",
+"name" : " American"
+},
+
+{
+"id" : "20",
+"name" : " American Milking Devon"
+},
+
+{
+"id" : "21",
+"name" : " American White Park"
+},
+
+{
+"id" : "22",
+"name" : " Amerifax"
+},
+
+{
+"id" : "23",
+"name" : " Amrit Mahal"
+},
+
+{
+"id" : "24",
+"name" : " Amsterdam Island cattle"
+},
+
+{
+"id" : "25",
+"name" : " Anatolian Black"
+},
+
+{
+"id" : "26",
+"name" : " Angeln cattle"
+},
+
+{
+"id" : "27",
+"name" : " Angus cattle"
+},
+
+{
+"id" : "28",
+"name" : " Ankole-Watusi"
+},
+
+{
+"id" : "29",
+"name" : " Aosta cattle"
+},
+
+{
+"id" : "30",
+"name" : " Argentine Criollo"
+},
+
+{
+"id" : "31",
+"name" : " Armorican"
+},
+
+{
+"id" : "32",
+"name" : " Arouquesa Cattle"
+},
+
+{
+"id" : "33",
+"name" : " Asturian Mountain"
+},
+
+{
+"id" : "34",
+"name" : " Asturian Valley"
+},
+
+{
+"id" : "35",
+"name" : " Aubrac cattle"
+},
+
+{
+"id" : "36",
+"name" : " Aulie-Ata"
+},
+
+{
+"id" : "37",
+"name" : " Aure et Saint-Girons"
+},
+
+{
+"id" : "38",
+"name" : " Australian Braford"
+},
+
+{
+"id" : "39",
+"name" : " Australian Brangus"
+},
+
+{
+"id" : "40",
+"name" : " Australian Charbray"
+},
+
+{
+"id" : "41",
+"name" : " Australian Friesian Sahiwal"
+},
+
+{
+"id" : "42",
+"name" : " Australian Milking Zebu"
+},
+
+{
+"id" : "43",
+"name" : " Ayrshire"
+},
+
+{
+"id" : "44",
+"name" : " Baherie cattle"
+},
+
+{
+"id" : "45",
+"name" : " Bakosi cattle"
+},
+
+{
+"id" : "46",
+"name" : " Balancer cattle"
+},
+
+{
+"id" : "47",
+"name" : " Baoule"
+},
+
+{
+"id" : "48",
+"name" : " Barrosã Cattle"
+},
+
+{
+"id" : "49",
+"name" : " Barzona"
+},
+
+{
+"id" : "50",
+"name" : " Bazadais"
+},
+
+{
+"id" : "51",
+"name" : " Beefalo"
+},
+
+{
+"id" : "52",
+"name" : " Beefmaster"
+},
+
+{
+"id" : "53",
+"name" : " Belgian Blue"
+},
+
+{
+"id" : "54",
+"name" : " Belgian Red"
+},
+
+{
+"id" : "55",
+"name" : " Belmont Red"
+},
+
+{
+"id" : "56",
+"name" : " Belted Galloway"
+},
+
+{
+"id" : "57",
+"name" : " Betizu"
+},
+
+{
+"id" : "58",
+"name" : " Blaarkop"
+},
+
+{
+"id" : "59",
+"name" : " Black Angus"
+},
+
+{
+"id" : "60",
+"name" : " Black Baldy"
+},
+
+{
+"id" : "61",
+"name" : " Black Hereford"
+},
+
+{
+"id" : "62",
+"name" : " Blonde d'Aquitaine"
+},
+
+{
+"id" : "63",
+"name" : " Blue Albion"
+},
+
+{
+"id" : "64",
+"name" : " Blue Grey"
+},
+
+{
+"id" : "65",
+"name" : " Bonsmara"
+},
+
+{
+"id" : "66",
+"name" : " Boran"
+},
+
+{
+"id" : "67",
+"name" : " Braford"
+},
+
+{
+"id" : "68",
+"name" : " Brahman"
+},
+
+{
+"id" : "69",
+"name" : " Brangus"
+},
+
+{
+"id" : "70",
+"name" : " Braunvieh"
+},
+
+{
+"id" : "71",
+"name" : " British White"
+},
+
+{
+"id" : "72",
+"name" : " British Friesian"
+},
+
+{
+"id" : "73",
+"name" : " Brown Carpathian"
+},
+
+{
+"id" : "74",
+"name" : " Brown Swiss"
+},
+
+{
+"id" : "75",
+"name" : " Bue Lingo"
+},
+
+{
+"id" : "76",
+"name" : " Burlina"
+},
+
+{
+"id" : "77",
+"name" : " Buša cattle"
+},
+
+{
+"id" : "78",
+"name" : " Butana"
+},
+
+{
+"id" : "79",
+"name" : " Cachena Cattle"
+},
+
+{
+"id" : "80",
+"name" : " Camargue"
+},
+
+{
+"id" : "81",
+"name" : " Campbell Island Cattle"
+},
+
+{
+"id" : "82",
+"name" : " Canadian Speckle Park"
+},
+
+{
+"id" : "83",
+"name" : " Canadienne"
+},
+
+{
+"id" : "84",
+"name" : " Canchim"
+},
+
+{
+"id" : "85",
+"name" : " Caracu"
+},
+
+{
+"id" : "86",
+"name" : " Carinthian Blondvieh"
+},
+
+{
+"id" : "87",
+"name" : " Carora"
+},
+
+{
+"id" : "88",
+"name" : " Charolais"
+},
+
+{
+"id" : "89",
+"name" : " Chianina"
+},
+
+{
+"id" : "90",
+"name" : " Chillingham Cattle"
+},
+
+{
+"id" : "91",
+"name" : " Chinese black pied"
+},
+
+{
+"id" : "92",
+"name" : " Corriente cattle"
+},
+
+{
+"id" : "93",
+"name" : " Corsican Cattle"
+},
+
+{
+"id" : "94",
+"name" : " Crioulo Lageano"
+},
+
+{
+"id" : "95",
+"name" : " Danish Jersey"
+},
+
+{
+"id" : "96",
+"name" : " Danish Red"
+},
+
+{
+"id" : "97",
+"name" : " Devon"
+},
+
+{
+"id" : "98",
+"name" : " Dexter"
+},
+
+{
+"id" : "99",
+"name" : " Doayo cattle"
+},
+
+{
+"id" : "100",
+"name" : " Dølafe"
+},
+
+{
+"id" : "101",
+"name" : " Droughtmaster"
+},
+
+{
+"id" : "102",
+"name" : " Dutch Belted"
+},
+
+{
+"id" : "103",
+"name" : " Dwarf Lulu"
+},
+
+{
+"id" : "104",
+"name" : " Eastern Finncattle"
+},
+
+{
+"id" : "105",
+"name" : " Enderby Island Cattle"
+},
+
+{
+"id" : "106",
+"name" : " English Longhorn"
+},
+
+{
+"id" : "107",
+"name" : " Ennstal Mountain Pied Cattle"
+},
+
+{
+"id" : "108",
+"name" : " Évolène Cattle"
+},
+
+{
+"id" : "109",
+"name" : " Finnish Ayrshire"
+},
+
+{
+"id" : "110",
+"name" : " Finnish cattle"
+},
+
+{
+"id" : "111",
+"name" : " Fjäll"
+},
+
+{
+"id" : "112",
+"name" : " Fleckvieh"
+},
+
+{
+"id" : "113",
+"name" : " Florida Cracker"
+},
+
+{
+"id" : "114",
+"name" : " French Simmental"
+},
+
+{
+"id" : "115",
+"name" : " Galician Blond"
+},
+
+{
+"id" : "116",
+"name" : " Galloway cattle"
+},
+
+{
+"id" : "117",
+"name" : " Garvonesa Cattle"
+},
+
+{
+"id" : "118",
+"name" : " Gascon cattle"
+},
+
+{
+"id" : "119",
+"name" : " Gelbvieh"
+},
+
+{
+"id" : "120",
+"name" : " Georgian mountain cattle"
+},
+
+{
+"id" : "121",
+"name" : " German Angus Cattle"
+},
+
+{
+"id" : "122",
+"name" : " German Black Pied Cattle"
+},
+
+{
+"id" : "123",
+"name" : " German Black Pied Dairy"
+},
+
+{
+"id" : "124",
+"name" : " German Red Pied"
+},
+
+{
+"id" : "125",
+"name" : " Gir"
+},
+
+{
+"id" : "126",
+"name" : " Glan cattle"
+},
+
+{
+"id" : "127",
+"name" : " Gloucester"
+},
+
+{
+"id" : "128",
+"name" : " Greek Shorthorn"
+},
+
+{
+"id" : "129",
+"name" : " Greyman Cattle"
+},
+
+{
+"id" : "130",
+"name" : " Gudali"
+},
+
+{
+"id" : "131",
+"name" : " Guernsey"
+},
+
+{
+"id" : "132",
+"name" : " Guzerat"
+},
+
+{
+"id" : "133",
+"name" : " Hanwoo"
+},
+
+{
+"id" : "134",
+"name" : " Harz Red mountain cattle"
+},
+
+{
+"id" : "135",
+"name" : " Hays Converter"
+},
+
+{
+"id" : "136",
+"name" : " Heck Cattle"
+},
+
+{
+"id" : "137",
+"name" : " Hereford"
+},
+
+{
+"id" : "138",
+"name" : " Herens"
+},
+
+{
+"id" : "139",
+"name" : " Highland Cattle"
+},
+
+{
+"id" : "140",
+"name" : " Hinterwald Cattle"
+},
+
+{
+"id" : "141",
+"name" : " Holando-Argentino"
+},
+
+{
+"id" : "142",
+"name" : " Red Holstein"
+},
+
+{
+"id" : "143",
+"name" : " Holstein"
+},
+
+{
+"id" : "144",
+"name" : " Horro"
+},
+
+{
+"id" : "145",
+"name" : " Hungarian Grey"
+},
+
+{
+"id" : "146",
+"name" : " Iberian cattle"
+},
+
+{
+"id" : "147",
+"name" : " Icelandic"
+},
+
+{
+"id" : "148",
+"name" : " Illawarra cattle"
+},
+
+{
+"id" : "149",
+"name" : " Indo-Brazilian"
+},
+
+{
+"id" : "150",
+"name" : " Irish Moiled"
+},
+
+{
+"id" : "151",
+"name" : " Istoben cattle"
+},
+
+{
+"id" : "152",
+"name" : " Jamaica Hope"
+},
+
+{
+"id" : "153",
+"name" : " Jarmelista Cattle"
+},
+
+{
+"id" : "154",
+"name" : " Jersey"
+},
+
+{
+"id" : "155",
+"name" : " Jutland cattle"
+},
+
+{
+"id" : "156",
+"name" : " Kalmyk cattle"
+},
+
+{
+"id" : "157",
+"name" : " Kangayam Cow"
+},
+
+{
+"id" : "158",
+"name" : " Kankrej"
+},
+
+{
+"id" : "159",
+"name" : " Kenana"
+},
+
+{
+"id" : "160",
+"name" : " Kerry cattle"
+},
+
+{
+"id" : "161",
+"name" : " Kuri"
+},
+
+{
+"id" : "162",
+"name" : " Latvian Brown"
+},
+
+{
+"id" : "163",
+"name" : " Lebedyn"
+},
+
+{
+"id" : "164",
+"name" : " Limia Cattle"
+},
+
+{
+"id" : "165",
+"name" : " Limousin"
+},
+
+{
+"id" : "166",
+"name" : " Lincoln Red"
+},
+
+{
+"id" : "167",
+"name" : " Lineback"
+},
+
+{
+"id" : "168",
+"name" : " Lithuanian Red"
+},
+
+{
+"id" : "169",
+"name" : " Lohani cattle"
+},
+
+{
+"id" : "170",
+"name" : " Lourdais"
+},
+
+{
+"id" : "171",
+"name" : " Australian Lowline"
+},
+
+{
+"id" : "172",
+"name" : " Luing"
+},
+
+{
+"id" : "173",
+"name" : " Madura cattle"
+},
+
+{
+"id" : "174",
+"name" : " Maine Anjou"
+},
+
+{
+"id" : "175",
+"name" : " Marchigiana"
+},
+
+{
+"id" : "176",
+"name" : " Maremmana"
+},
+
+{
+"id" : "177",
+"name" : " Marinhoa Cattle"
+},
+
+{
+"id" : "178",
+"name" : " Maronesa"
+},
+
+{
+"id" : "179",
+"name" : " Mertolenga Cattle"
+},
+
+{
+"id" : "180",
+"name" : " Meuse-Rhine-Issel"
+},
+
+{
+"id" : "181",
+"name" : " Milking Shorthorn"
+},
+
+{
+"id" : "182",
+"name" : " Minhota Cattle"
+},
+
+{
+"id" : "183",
+"name" : " Miniature"
+},
+
+{
+"id" : "184",
+"name" : " Mirandesa cattle"
+},
+
+{
+"id" : "185",
+"name" : " Mongolian cattle"
+},
+
+{
+"id" : "186",
+"name" : " Montbeliard Cattle"
+},
+
+{
+"id" : "187",
+"name" : " Murboden Cattle"
+},
+
+{
+"id" : "188",
+"name" : " Murnau-Werdenfels Cattle"
+},
+
+{
+"id" : "189",
+"name" : " Murray Grey"
+},
+
+{
+"id" : "190",
+"name" : " N'Dama"
+},
+
+{
+"id" : "191",
+"name" : " Nelore cattle"
+},
+
+{
+"id" : "192",
+"name" : " Nguni"
+},
+
+{
+"id" : "193",
+"name" : " Normande Cattle"
+},
+
+{
+"id" : "194",
+"name" : " Northern Finncattle"
+},
+
+{
+"id" : "195",
+"name" : " Norwegian Red"
+},
+
+{
+"id" : "196",
+"name" : " Ongole Cattle"
+},
+
+{
+"id" : "197",
+"name" : " Pajuna"
+},
+
+{
+"id" : "198",
+"name" : " Pantaneiro cattle"
+},
+
+{
+"id" : "199",
+"name" : " Parthenais"
+},
+
+{
+"id" : "200",
+"name" : " Pembroke cattle"
+},
+
+{
+"id" : "201",
+"name" : " Philippine Native cattle"
+},
+
+{
+"id" : "202",
+"name" : " Pie Rouge des Plaines"
+},
+
+{
+"id" : "203",
+"name" : " Piedmontese"
+},
+
+{
+"id" : "204",
+"name" : " Pinzgauer"
+},
+
+{
+"id" : "205",
+"name" : " Podolica"
+},
+
+{
+"id" : "206",
+"name" : " Polish Red cattle"
+},
+
+{
+"id" : "207",
+"name" : " Polled Hereford"
+},
+
+{
+"id" : "208",
+"name" : " Preta Cattle"
+},
+
+{
+"id" : "209",
+"name" : " Punganur Cow"
+},
+
+{
+"id" : "210",
+"name" : " Pustertal Pied Cattle"
+},
+
+{
+"id" : "211",
+"name" : " Ramo Grande"
+},
+
+{
+"id" : "212",
+"name" : " Randall"
+},
+
+{
+"id" : "213",
+"name" : " Rath"
+},
+
+{
+"id" : "214",
+"name" : " Red Angus"
+},
+
+{
+"id" : "215",
+"name" : " Red Fulani"
+},
+
+{
+"id" : "216",
+"name" : " Red Poll"
+},
+
+{
+"id" : "217",
+"name" : " Red Sindhi"
+},
+
+{
+"id" : "218",
+"name" : " Riggit Galloway"
+},
+
+{
+"id" : "219",
+"name" : " Ringamåla Cattle"
+},
+
+{
+"id" : "220",
+"name" : " Romagnola cattle"
+},
+
+{
+"id" : "221",
+"name" : " Romosinuano"
+},
+
+{
+"id" : "222",
+"name" : " Russian Black Pied"
+},
+
+{
+"id" : "223",
+"name" : " Sahiwal"
+},
+
+{
+"id" : "224",
+"name" : " Sanga"
+},
+
+{
+"id" : "225",
+"name" : " Santa Gertrudis cattle"
+},
+
+{
+"id" : "226",
+"name" : " Sayaguesa"
+},
+
+{
+"id" : "227",
+"name" : " Selembu"
+},
+
+{
+"id" : "228",
+"name" : " Senepol"
+},
+
+{
+"id" : "229",
+"name" : " Shetland cattle"
+},
+
+{
+"id" : "230",
+"name" : " Shorthorn"
+},
+
+{
+"id" : "231",
+"name" : " Siboney"
+},
+
+{
+"id" : "232",
+"name" : " Simmental"
+},
+
+{
+"id" : "233",
+"name" : " South Devon"
+},
+
+{
+"id" : "234",
+"name" : " Batangas"
+},
+
+{
+"id" : "235",
+"name" : " Spanish Fighting Bull"
+},
+
+{
+"id" : "236",
+"name" : " Speckle Park cattle"
+},
+
+{
+"id" : "237",
+"name" : " Square Meater"
+},
+
+{
+"id" : "238",
+"name" : " Sussex cattle"
+},
+
+{
+"id" : "239",
+"name" : " Swedish Red Cattle"
+},
+
+{
+"id" : "240",
+"name" : " Tarentaise"
+},
+
+{
+"id" : "241",
+"name" : " Tasmanian Grey"
+},
+
+{
+"id" : "242",
+"name" : " Tauros"
+},
+
+{
+"id" : "243",
+"name" : " Telemark cattle"
+},
+
+{
+"id" : "244",
+"name" : " Texas Longhorn"
+},
+
+{
+"id" : "245",
+"name" : " Tswana cattle"
+},
+
+{
+"id" : "246",
+"name" : " Tudanca"
+},
+
+{
+"id" : "247",
+"name" : " Tuli"
+},
+
+{
+"id" : "248",
+"name" : " Tulim"
+},
+
+{
+"id" : "249",
+"name" : " Tux Cattle"
+},
+
+{
+"id" : "250",
+"name" : " Tyrolese Grey Cattle"
+},
+
+{
+"id" : "251",
+"name" : " Ukrainian Grey cattle"
+},
+
+{
+"id" : "252",
+"name" : " Vaynol cattle"
+},
+
+{
+"id" : "253",
+"name" : " Vechoor cow"
+},
+
+{
+"id" : "254",
+"name" : " Volyn meat cattle"
+},
+
+{
+"id" : "255",
+"name" : " Vorderwald Cattle"
+},
+
+{
+"id" : "256",
+"name" : " Wagyu"
+},
+
+{
+"id" : "257",
+"name" : " Wangus"
+},
+
+{
+"id" : "258",
+"name" : " Welsh Black"
+},
+
+{
+"id" : "259",
+"name" : " Western Finncattle"
+},
+
+{
+"id" : "260",
+"name" : " White Fulani"
+},
+
+{
+"id" : "261",
+"name" : " White Park"
+},
+
+{
+"id" : "262",
+"name" : " Whitebred Shorthorn"
+},
+
+{
+"id" : "263",
+"name" : " Yakutian cattle"
+},
+
+{
+"id" : "264",
+"name" : " Yanbian cattle"
+},
+
+{
+"id" : "265",
+"name" : " Yurino"
+},
+
+{
+"id" : "266",
+"name" : " zubron"
+},
+
+]
